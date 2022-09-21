@@ -8,14 +8,14 @@
 # 直播
 "lives": [
 {"group": "redirect","channels": [{
-"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L21haW4vbGkvbGkudHh0"]}
+"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9saXZlLnR4dA=="]}
 ]}
 ],
 
 "sites":[
 {"key":"t4public","name":"心的方向带你看世界","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/main/on/bl.json"},
+{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/bilibili.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"🐞简影(SP)","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
@@ -39,8 +39,8 @@
 {"key":"youku","name":"👑优酷（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key":"PpTV","name":"📺PPTV（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 {"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
-{"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/main/on/hy.json"},
-{"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/main/on/dy.json"},
+{"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/huya.json"},
+{"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/douyu.json"},
 {"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"},
 {"key":"csp_xpath_酷狗MV","name":"🐶酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%85%B7%E7%8B%97MV.json"},
 {"key":"17kan","name":"⚽🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},{"key":"csp_xpath_88kanqiu","name":"⚽🏀88看球","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/88%E7%9C%8B%E7%90%83.json"},{"key":"csp_XYQBiu_310直播","name":"⚽🏀310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/310%E7%9B%B4%E6%92%AD.json"},{"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
