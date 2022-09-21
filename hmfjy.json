@@ -129,14 +129,9 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 # type1 聚合.并发.轮询
-{"name":"☑快速直解","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="},
-{"name":"☑搬运","type":1,"url":"https://jx.bynote.top/API.php?url="},
 {"name":"☑钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
-{"name":"☑油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"☑爱酷","type":1,"url":"https://json.freejx.in/?url="},
-{"name":"☑乐多解析","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
 {"name":"☑江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-{"name":"☑云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},
 {"name":"☑M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"☑ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"☑虾米解析","type":0,"url":"https://dm.xmflv.com:4433/?url="},
@@ -144,7 +139,6 @@
 {"name":"☑OK解析","type": 0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"☑诺讯嗅探","type": 0,"url":"https://www.nxflv.com/?url="},
 {"name":"☑夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"☑M1907","type":0,"url":"https://z1.m1907.cn/?jx="},
 
 {"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name":"OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
