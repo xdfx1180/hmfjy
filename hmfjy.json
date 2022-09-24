@@ -44,7 +44,6 @@
 {"key":"csp_biubiu_cupfox","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/Alist.json"},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
 {"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%99%8E%E7%89%99.json"},
 {"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E6%96%97%E9%B1%BC.json"},
