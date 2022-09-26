@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/jar/hmfjy.jar",
+"spider":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/jar/888.jar",
 "wallpaper":"https://qiu.moe/a723",
 //"wallpaper":"https://qiu.moe/b723",
 
@@ -44,6 +44,13 @@
 {"key":"csp_biubiu_cupfox","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"py_cctvzh","name":"📺央视综合 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E7%BB%BC%E5%90%88.py"},
+{"key":"py_cctvzy","name":"📺央视综艺 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E7%BB%BC%E8%89%BA.py"},
+{"key":"py_cctvdy","name":"📺央视电影 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E7%94%B5%E5%BD%B1.py"},
+{"key":"py_cctvty","name":"📺央视体育 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E4%BD%93%E8%82%B2.py"},
+{"key":"py_cctvfz","name":"📺央视法治 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E6%B3%95%E6%B2%BB.py"},
+{"key":"py_cctvkj","name":"📺央视科教 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E7%A7%91%E6%95%99.py"},
+{"key":"py_cctvyy","name":"📺央视音乐 py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E5%A4%AE%E8%A7%86%E9%9F%B3%E4%B9%90.py"},
 {"key":"py_bilimd","name":"🅱️哔哩哔哩影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/bilibili%E5%BD%B1%E8%A7%86.py"},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
 {"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%99%8E%E7%89%99.json"},
