@@ -17,6 +17,13 @@
 {"key":"","name":"😍心的方向陪你聊人生","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"ASMR","name":"👄ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key": "dr_18av","name": "18av(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=18av&ext=txt/js/18/18av.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_banan","name": "banan(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=banan&ext=txt/js/18/banan.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_Missav","name": "Missav(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=Missav&ext=txt/js/18/Missav.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_养端","name": "养端(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=养端&ext=txt/js/18/养端.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_吸瓜","name": "吸瓜(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_朱古力","name": "朱古力(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_玩偶姐姐","name": "玩偶姐姐(道长)","type": 1,"api": "http://www.hmfjy.cf:5705/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key":"ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kd","name":"🎀酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kulunli","name":"🎀酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
