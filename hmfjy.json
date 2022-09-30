@@ -46,6 +46,8 @@
 {"key":"ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_XYQHiker_冷曦影视","name":"❄冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
+{key:' py_中国文化',name:' 🅱️中国文化',type:3,api:'py_中国文化',searchable:0,quickSearch:0,filterable:1,ext:'https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96.py'},
+{key:' py_中医药',name:' 🅱️中医药',type:3,api:'py_中医药',searchable:0,quickSearch:0,filterable:1,ext:'https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/%E4%B8%AD%E5%8C%BB%E8%8D%AF.py'},
 {"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%99%8E%E7%89%99.json"},
 {"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E6%96%97%E9%B1%BC.json"},
 {"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"},
