@@ -10,7 +10,7 @@
 
 "sites":[
 {"key":"T4聚合","name":"🌏心的方向带你看世界","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.githubusercontent.com/xdfx1180/hmfjy/play/txt/al.txt&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent","name":"⏏️内网推送┃爬虫","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"{{ali_token}}","jar":"http://43.143.21.193:9600/cat/jar/0928.jar"},
+{"key":"push_agent","name":"⏏️内网推送┃爬虫","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"{{ali_token}}","plugin":"http://43.143.21.193:9600/cat/jar/0928.jar"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KanSJ","name":"🦅看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
