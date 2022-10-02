@@ -1,17 +1,12 @@
 {
-## spider
 "spider":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/jar/cr.jar",
 "wallpaper":"https://qiu.moe/b723",
-//"wallpaper":"https://qiu.moe/a723",
 
-
-# 直播
 "lives": [
 {"group": "redirect","channels": [{
 "name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9jci50eHQ="]}
 ]}
 ],
-
 
 "sites":[
 {"key":"","name":"😍心的方向陪你聊人生","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
@@ -100,7 +95,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-# type1 聚合.并发.轮询
 {"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name":"☑钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"☑爱酷","type":1,"url":"https://json.freejx.in/?url="},
