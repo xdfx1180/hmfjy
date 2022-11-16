@@ -9,8 +9,8 @@
 ],
 
 "sites":[
-{"key":"douban","name":"🌏心的方向带你看世界","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"js豆瓣","name":"🅱豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"douban","name":"🌏心的方向带你看世界","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"dr_豆瓣","name":"🐼豆瓣热播","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
