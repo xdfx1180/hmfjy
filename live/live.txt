@@ -3,6 +3,7 @@ CCTV-5 体育频道,http://39.135.6.18:6610/000000001001/6000000001000016431/1.m
 CCTV-5+ 体育赛事,http://39.135.6.18:6610/000000001001/6000000001000015875/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000015875
 CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 足球,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
