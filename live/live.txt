@@ -1,7 +1,7 @@
 ⚽ 体育,#genre#
-CCTV-5 体育频道,http://hls.ye23.vip/hls/cctv5hd.m3u8
+CCTV-5 体育频道,http://wabc.ml/sxg.php?id=CCTV-5H265_4000
 CCTV-5+ 体育赛事,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV-16 奥林匹克,http://hls.ye23.vip/hls/cctv16hd.m3u8
+CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 五星体育,http://tvmvip110.club/bs.php?id=40
 足球,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
 RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
