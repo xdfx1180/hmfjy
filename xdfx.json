@@ -49,6 +49,14 @@
         {
             "url": "https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json",
             "name": "💎小T"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🌲js"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "😘fcr"
         }
         
 
