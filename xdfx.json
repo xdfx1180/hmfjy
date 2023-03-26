@@ -25,8 +25,21 @@
         {
             "url": "http://饭太硬.ga/tv",
             "name": "🚀饭太硬"
-        }, 
-{
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🌲道长"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🏡多多家庭"
+        },
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "name": "💖月光宝盒"
+        },
+  
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "✨巧儿"
         },                      
@@ -51,20 +64,8 @@
             "name": "💎小T"
         },
         {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🌲js"
-        },
-        {
             "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "😘fcr"
-        }
-        
-
-    ],
-    "vip": [
-        {
-            "url": "",
-            "name": "默认"
         }
     ]
 }
