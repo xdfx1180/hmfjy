@@ -21,7 +21,7 @@
 {"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/json/555.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
 {"key":"csp_Lib","name": "Libvio｜SP","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/xiaomian.jar","ext":"https://tv.libvio.cc"},
 {"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},
-{"key":"Paper","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/xiaomian.jar","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"Gitcafe","name":"📜纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/token/token.txt","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
 {"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/Alist.json","jar":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/jar/custom_spider.jar"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
