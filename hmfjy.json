@@ -9,7 +9,6 @@
 ],
 
 "sites":[
-//{"key": "js豆瓣1","name": "🌏心的方向带你看世界","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"T4_douban2","name":"🌏心的方向带你看世界","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "js豆瓣","name": "🏮豆瓣","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
