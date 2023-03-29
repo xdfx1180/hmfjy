@@ -61,5 +61,18 @@
             "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "😘fcr"
         }
+    ],
+    "vip": [
+
+        {
+
+            "url": "",
+
+            "name": "默认"
+
+        }
+
     ]
+
 }
+
