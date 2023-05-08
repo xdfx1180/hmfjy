@@ -19,9 +19,9 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://m.douyu.com/api/room/list?page={catePg}&type={cateId}",
     //分类名，分类1&分类2&分类3
-    "class_name": "一起看&天天象棋&文化&原创IP&趣生活&户外&美食&纪录片&音乐&科普&舞蹈&社会人文&数码科技&颜值&二次元",
+    "class_name": "一起看&天天象棋&文化&原创IP&趣生活&户外&美食&纪录片&音乐&科普&星秀&社会人文&数码科技&颜值&二次元",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "yqk&ttxq&wh&ip&QSH&HW&ms&jlp&music&kepu&dance&shrw&smkj&yz&ecy",
+    "class_value": "yqk&ttxq&wh&ip&QSH&HW&ms&jlp&music&kepu&xingxiu&shrw&smkj&yz&ecy",
     //筛选数据，json格式，参考xpath的筛选写法
     "filterdata":{},
     
