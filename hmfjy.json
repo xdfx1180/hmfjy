@@ -23,7 +23,7 @@
 {"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%99%8E%E7%89%99.json"},
 {"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E6%96%97%E9%B1%BC.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/nmys.json","jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"},
+{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
 {"key": "csp_DiDuan","name": "⏮️低端影视","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9"},
 {"key":"csp_SP360","name":"📺360(官)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json","jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"},
