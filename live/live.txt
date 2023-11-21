@@ -53,6 +53,7 @@ CETV-4,https://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
 湖北卫视,https://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
 广东卫视,https://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
 广西卫视,https://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
+山东卫视,https://epg.pw/stream/5286d0e2d19fa9d2e8d7d2f90f5cc2c96a5fed0e0a61b30f89ca64c5455df001.m3u8
 山西卫视,https://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
 重庆卫视,https://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
 四川卫视,https://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
@@ -61,6 +62,8 @@ CETV-4,https://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
 内蒙古卫视,https://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
 黑龙江卫视,https://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
 吉林卫视,https://cntv.lat/tv/live.php?auth=231110&id=jilinHD
+陝西卫视,https://epg.pw/stream/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
+甘肃卫视,https://epg.pw/stream/51073aec3aa73fa23f1b11c49e9cc36bc8832c3987018d6af2a3d4e0223a200d.m3u8
 宁夏卫视,https://cntv.lat/tv/live.php?auth=231110&id=ningxia
 青海卫视,https://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
 新疆卫视,https://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
