@@ -10,10 +10,10 @@ SD,http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536
 
 央视频道,#genre#
 CCTV1 8M,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
-CCTV2 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV2 8M,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
+CCTV3 8M,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
+CCTV4 8M,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
+CCTV5 8M,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5HD
 CCTV5+ 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV6 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 CCTV7 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
