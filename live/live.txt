@@ -73,6 +73,7 @@ CETV-4,https://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
 
 地方,#genre#
 北京纪实,https://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
+五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
 上海新闻综合,https://pi.0472.org/tv/sh.php?id=xw
 上海都市,https://pi.0472.org/tv/sh.php?id=ds
 浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -113,8 +114,21 @@ CETV-4,https://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
 收藏天下,https://cntv.lat/tv/live.php?auth=231110&id=soucang
 摄影频道,https://cntv.lat/tv/live.php?auth=231110&id=sheying
 
-港澳,#genre#
+港澳台,#genre#
 香港佛教,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+生命电视台,https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
+三立INEWS,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
+三立新聞,https://epg.pw/stream/043e9ba5a69ed473708efc931ff9b35590d90f03f45bbeabe1899ef448ee59c6.m3u8
+民視新聞,https://epg.pw/stream/e497f8d65b358ade35ba839e10d83e4c9b6826134c6f75cc2ca038f655dd91bb.m3u8
+东森新闻,https://epg.pw/stream/0c1a2def94ba956a1cd2a6bd068abf307d3bdcafd911e111f88acc295a76b6e1.m3u8
+中視新聞,https://epg.pw/stream/a4ef46ca5a7026f79b4424642e6e0b1fa69ae93007284077e53ea607ddd351b9.m3u8
+台視新聞,https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
+寰宇新聞,https://epg.pw/stream/839bd1c9378b73c9c5b21d3ec7839de4673acaa1b57c1de83aedf0422d70e503.m3u8
+三立台湾,https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8
+三立都会,https://epg.pw/stream/b49c002c700cdbcd7cb82dceff7a4a3029193d5edb6ce9e216d0c338e352856d.m3u8
+民視第一台,https://epg.pw/stream/14ed21cf202007ed8122af0f57b1b45b56a845be68533e9535a14b8170e1285d.m3u8
+民視台湾,https://epg.pw/stream/1009a80025ad9b6285074fdb63ab6db2a289ffd21cf5283c75f63d00c1d379ba.m3u8
+民視旅遊,https://epg.pw/stream/9a90dbe2ab5992603a37730e6f78c4273b158f525ecd850899aeeb4fb30ad799.m3u8
 凤凰中文,https://0472.org/hls/fhzw.m3u8
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
