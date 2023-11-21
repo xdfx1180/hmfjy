@@ -1,13 +1,3 @@
-⚽ 体育,#genre#
-CCTV-5 体育频道,http://wabc.ml/sxg.php?id=CCTV-5H265_4000
-CCTV-5+ 体育赛事,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-五星体育,http://tvmvip110.club/bs.php?id=40
-足球,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
-SD,http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.xs
-
-
 央视频道,#genre#
 CCTV1,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
 CCTV2,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
@@ -32,40 +22,109 @@ CCTV-16 奥林匹克 4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
 CHC动作电影,https://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
 CHC家庭影院,https://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
 CHC高清电影,https://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
+风云足球,https://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
+央视文化精品,https://cntv.lat/tv/live.php?auth=231110&id=yswhHD
+风云剧场,https://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
+第一剧场,https://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
+怀旧剧场,https://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
+央视台球,https://cntv.lat/tv/live.php?auth=231110&id=ystqHD
+高尔夫网球,https://cntv.lat/tv/live.php?auth=231110&id=golfHD
+风云音乐,https://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
+兵器科技,https://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
+女性时尚,https://cntv.lat/tv/live.php?auth=231110&id=nvxing
+CETV-1,https://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
+CETV-4,https://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
+
+卫视,#genre#
+湖南卫视,https://cntv.lat/tv/live.php?auth=231110&id=hunanHD
 北京卫视,https://cntv.lat/tv/live.php?auth=231110&id=beijingHD
 浙江卫视,https://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
 东方卫视,https://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
+江苏卫视,https://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
+辽宁卫视,https://cntv.lat/tv/live.php?auth=231110&id=liaoningHD
+安徽卫视,https://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
+天津卫视,https://cntv.lat/tv/live.php?auth=231110&id=tianjinHD
+深圳卫视,https://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
+河南卫视,https://cntv.lat/tv/live.php?auth=231110&id=henanHD
+河北卫视,https://cntv.lat/tv/live.php?auth=231110&id=hebeiSD
+江西卫视,https://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
+东南卫视,https://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
+海南卫视,https://cntv.lat/tv/live.php?auth=231110&id=hainanSD
+湖北卫视,https://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
+广东卫视,https://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
+广西卫视,https://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
+山西卫视,https://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
+重庆卫视,https://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
+四川卫视,https://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
+云南卫视,https://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
+贵州卫视,https://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
+内蒙古卫视,https://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
+黑龙江卫视,https://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
+吉林卫视,https://cntv.lat/tv/live.php?auth=231110&id=jilinHD
+宁夏卫视,https://cntv.lat/tv/live.php?auth=231110&id=ningxia
+青海卫视,https://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
+新疆卫视,https://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
+西藏卫视,https://cntv.lat/tv/live.php?auth=231110&id=xizangSD
+兵团卫视,https://cntv.lat/tv/live.php?auth=231110&id=bingtuanSD
+三沙卫视,https://cntv.lat/tv/live.php?auth=231110&id=sanshaSD
 
+地方,#genre#
+北京纪实,https://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
+上海新闻综合,https://pi.0472.org/tv/sh.php?id=xw
+上海都市,https://pi.0472.org/tv/sh.php?id=ds
+浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江教科影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+重庆新闻,https://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
+重庆影视,https://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
+重庆社会与法,https://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
+重庆文体娱乐,https://cntv.lat/tv/live.php?auth=231110&id=cqwtylHD
+重庆时尚生活,https://cntv.lat/tv/live.php?auth=231110&id=cqssgwHD
+重庆科教,https://cntv.lat/tv/live.php?auth=231110&id=CQTVkejiaoHD
+爱看导视,https://cntv.lat/tv/live.php?auth=231110&id=aikanHD
+山东教育,https://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 
+其他,#genre#
+欢笑剧场 4K,https://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
+都市剧场,https://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
+魅力足球,https://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
+求索纪录,https://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
+环球奇观,https://cntv.lat/tv/live.php?auth=231110&id=car
+法治天地,https://cntv.lat/tv/live.php?auth=231110&id=fazhi
+环球旅游,https://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
+发现之旅,https://cntv.lat/tv/live.php?auth=231110&id=faxian
+国学频道,https://cntv.lat/tv/live.php?auth=231110&id=guoxue
+老故事,https://cntv.lat/tv/live.php?auth=231110&id=gushi
+中华特产,https://cntv.lat/tv/live.php?auth=231110&id=techan
+生活时尚,https://cntv.lat/tv/live.php?auth=231110&id=shenghuo
+百姓健康,https://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
+先锋乒羽,https://cntv.lat/tv/live.php?auth=231110&id=xianfeng
+书画,https://cntv.lat/tv/live.php?auth=231110&id=shuhua
+收藏天下,https://cntv.lat/tv/live.php?auth=231110&id=soucang
+摄影频道,https://cntv.lat/tv/live.php?auth=231110&id=sheying
 
-🎁｜埋堆堆,#genre#
-天地男儿,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
-大时代,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
-创世纪,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
-83版射雕英雄传,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
-天龙八部,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
-寻秦记,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
-笑傲江湖,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
-楚汉骄雄,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
-金装四大才子,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+港澳,#genre#
+香港佛教,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+凤凰中文,https://0472.org/hls/fhzw.m3u8
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231110
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231110
+莲花卫视,https://cntv.lat/tv/lhws.php
+星空卫视,https://pi.0472.org/tv/startv.php?auth=231110
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-
-🔁｜轮播剧场,#genre#
-吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-许氏三杰,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
-沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-陈佩斯,http://txtest-xp2p.p2p.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.xs
-武林外传,http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs
-康熙王朝,http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
-大宅门,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
-四大名著,http://epg.112114.xyz/douyu/1046540
-炊事班的故事,http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
-漫威电影1,http://epg.112114.xyz/douyu/4282654
-漫威电影2,http://epg.112114.xyz/douyu/6140589
-春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-
+国际,#genre#
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 🎞️丨老电影,#genre#
 小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
