@@ -172,6 +172,10 @@ NewTV系列,#genre#
 超清频道,#genre#
 纯享超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 
+
+
+
+
 IPV6·4K,#genre#
 8K测试「IPV6」 ,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 爱上4K 「IPV6」 ,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -452,6 +456,10 @@ BesTV-8「IPV6」 ,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000
 BesTV-9「IPV6」 ,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
 BesTV-10「IPV6」 ,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
 BesTV-11「IPV6」 ,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
+
+
+
+
 
 港•澳•台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -1231,6 +1239,10 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
 埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
 埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+
+
+
+
 
 央视,#genre#
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
@@ -2701,6 +2713,10 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 金鹰卡通,http://211.137.115.109:80/gitv_live/G_JINYING/G_JINYING.m3u8
 优漫卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+
 
 港台,#genre#
 香港佛教,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
