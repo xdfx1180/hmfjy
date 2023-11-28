@@ -6,7 +6,7 @@
 {"group": "redirect","channels": [{
 "name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9jci50eHQ="]}
 ]}
-]，
+],
 
 "sites":[
 {"key":"","name":"😍心的方向陪你聊人生","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
