@@ -6,10 +6,10 @@
 {"group": "redirect","channels": [{
 "name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9saXZlLnR4dA=="]}
 ]}
-],
+]，
 
 "sites":[
-{"key":"js豆瓣","name":"🌏心的方向带你看世界","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"},
+{"key":"豆豆","name":"🌏心的方向带你看世界","type": 3， "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
 //{"key":"js豆瓣","name":"🌏心的方向带你看世界","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"},
 
 {"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -41,7 +41,7 @@
 {"key":"XBPQ_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影视.json","jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"},
 {"key":"csp_biubiu_cupfox","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
-{"key": "csp_XBPQ秋霞影视","name": "️🍂┃秋霞┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A","ext": {"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接": "\"url\"*\"&&\""}},
+{"key": "csp_XBPQ秋霞影视","name": "️🍂┃秋霞┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A","ext": {"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\""，"三次跳转播放链接": "\"url\"*\"&&\""}},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
 {"key":"py_bilimd","name":"🅱️哔哩哔哩影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/py/bilibili%E5%BD%B1%E8%A7%86.py"},
 {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/jar/cp0921%E4%BF%AE%E5%A4%8D%E5%A4%A9%E7%A9%BA.jar"},
@@ -58,7 +58,7 @@
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xdfx1180/hmfjy/play/txt/al.txt","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4e76031a18cb23b27867a2c0829492b7"},
 
 {"key":"","name":"🌏心的方向带你看世界","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1}
-],
+]，
 
 "parses":[
 {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
