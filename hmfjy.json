@@ -9,7 +9,7 @@
 ],
 
 "sites":[
-{"key": "豆瓣","name": "🌏心的方向带你看世界","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/douban.json","jar": "https://tvbox.cainisi.cf/jar/fm1124.jar;md5;1117603a248d03a2fba94c991612970f"},
+{"key":"","name":"🌏心的方向带你看世界","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"js豆瓣","name":"🌏心的方向带你看世界","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"},
 
 {"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
