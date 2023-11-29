@@ -6,7 +6,7 @@
 {"group": "redirect","channels": [{
 "name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9saXZlLnR4dA=="]}
 ]}
-]，
+],
 
 "sites":[
 {"key":"豆豆","name":"🌏心的方向带你看世界","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
