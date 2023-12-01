@@ -393,11 +393,6 @@ Ayo夏哟哟,https://www.goodiptv.club/huya/762576
 逗比宝宝经典金庸群侠,https://www.goodiptv.club/huya/11342427
 鱼塘塘主新水浒,https://www.goodiptv.club/huya/11342384
 
-咪咕,#genre#
-咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
-咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
-咪咕精彩足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-
 老电影,#genre#
 小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
 闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
