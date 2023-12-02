@@ -222,7 +222,7 @@ CCTV 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
 海南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001183/1.m3u8
-厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?love=freedom
@@ -317,6 +317,7 @@ UnaDirezione林正英,https://www.goodiptv.club/douyu/218859
 UU娇哒哒呀鬼片,https://www.goodiptv.club/douyu/96577
 吃奶滴虫鬼片,https://www.goodiptv.club/douyu/263824
 卖女孩滴小姑凉悍匪,https://www.goodiptv.club/douyu/922564
+七落真实案例,https://www.goodiptv.club/douyu/10019937
 孤独的牧羊仁怀旧,https://www.goodiptv.club/douyu/6861249
 都是奔奔的错六小龄童,https://www.goodiptv.club/douyu/8953746
 橙沫小幺妹大秦,https://www.goodiptv.club/douyu/1584198
@@ -330,6 +331,10 @@ Re爱吃小龙虾许三多,https://www.goodiptv.club/douyu/11651155
 冰冰经典,https://www.goodiptv.club/douyu/74374
 性感冰激凌剧经典,https://www.goodiptv.club/douyu/7119207
 PDD影院经典,https://www.goodiptv.club/douyu/1274132
+特辑电影院,https://www.goodiptv.club/douyu/3637778
+糖醋小排咕纪晓岚,https://www.goodiptv.club/douyu/11861663
+Only邵氏,https://www.goodiptv.club/douyu/4246519
+么奶瓶金庸,https://www.goodiptv.club/douyu/7644931
 
 虎牙,#genre#
 胖猴仔,https://www.goodiptv.club/huya/24057412
@@ -372,6 +377,13 @@ Ayo夏哟哟,https://www.goodiptv.club/huya/762576
 大侠阳光的快乐生活,https://www.goodiptv.club/huya/11602085
 逗比宝宝经典金庸群侠,https://www.goodiptv.club/huya/11342427
 鱼塘塘主新水浒,https://www.goodiptv.club/huya/11342384
+来瓶肥宅水吐槽大会,https://www.goodiptv.club/huya/21059555
+微微影视黑帮,https://www.goodiptv.club/huya/24527617
+赢城鬼片,https://www.goodiptv.club/huya/23796393
+我是周粤驰寻秦记,https://www.goodiptv.club/huya/23864973
+学妹爱学长警匪,https://www.goodiptv.club/huya/11352886
+科技这样玩许氏三杰,https://www.goodiptv.club/huya/11602033
+笙歌经典港剧,https://www.goodiptv.club/huya/11352965
 
 老电影,#genre#
 小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
