@@ -260,9 +260,9 @@ CCTV 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 香港,#genre#
-淨空法師直播,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-淨空法師直播,https://epg.pw/stream/3d225763259c694c6c8043cbcb631d619b885234939eae87247bc232e047c580.m3u8
-淨空法師直播,https://epg.pw/stream/5a1ca247cb8ecd5a7e72c6873c40ba665dd26bb2dce7bd05a91479b367887d61.m3u8
+淨空法師,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+淨空法師,https://epg.pw/stream/3d225763259c694c6c8043cbcb631d619b885234939eae87247bc232e047c580.m3u8
+淨空法師,https://epg.pw/stream/5a1ca247cb8ecd5a7e72c6873c40ba665dd26bb2dce7bd05a91479b367887d61.m3u8
 生命电视台,https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
 生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
