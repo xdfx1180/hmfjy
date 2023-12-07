@@ -231,10 +231,8 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-id="兰州文旅频道" tvg-name="兰州文旅频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方频道",兰州文旅频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
 
-#EXTINF:-1 tvg-id="笑笑象棋" tvg-name="笑笑象棋" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",笑笑象棋
-https://www.goodiptv.club/douyu/9969
 #EXTINF:-1 tvg-id="八卦象棋" tvg-name="八卦象棋" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",八卦象棋
-https://www.goodiptv.club/douyu/851040
+https://tv.iill.top/douyu/851040
 #EXTINF:-1 tvg-id="贝拉" tvg-name="贝拉" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",贝拉
 https://www.goodiptv.club/douyu/3276456
 #EXTINF:-1 tvg-id="辽台经典小品" tvg-name="辽台经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",辽台经典小品
