@@ -149,18 +149,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
-http://192.168.50.1:9000/live.m3u8?c=19
-#EXTINF:-1 tvg-id="淨空法師" tvg-name="淨空法師" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",淨空法師
-http://192.168.50.1:9000/live.m3u8?c=20
-#EXTINF:-1 tvg-id="生命电视台" tvg-name="生命电视台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
-https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
-#EXTINF:-1 tvg-id="综艺大哥大" tvg-name="综艺大哥大" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/综艺大哥大.png" group-title="港台频道",综艺大哥大
-http://192.168.50.1:9000/live.m3u8?c=21
-#EXTINF:-1 tvg-id="龙兄虎弟" tvg-name="龙兄虎弟" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/龙兄虎弟.png" group-title="港台频道",龙兄虎弟
-http://192.168.50.1:9000/live.m3u8?c=22
-#EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台频道",新唐人亚太台
-http://192.168.50.1:9000/live.m3u8?c=18
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="港台频道",三立新闻
 http://192.168.50.1:9000/live.m3u8?c=1
 #EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台频道",三立iNEWS
@@ -195,6 +183,22 @@ http://192.168.50.1:9000/live.m3u8?c=15
 http://192.168.50.1:9000/live.m3u8?c=16
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="港台频道",中天新闻
 http://192.168.50.1:9000/live.m3u8?c=17
+#EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台频道",新唐人亚太台
+http://192.168.50.1:9000/live.m3u8?c=18
+#EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
+http://192.168.50.1:9000/live.m3u8?c=19
+#EXTINF:-1 tvg-id="淨空法師" tvg-name="淨空法師" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",淨空法師
+http://192.168.50.1:9000/live.m3u8?c=20
+#EXTINF:-1 tvg-id="生命电视台" tvg-name="生命电视台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
+https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
+#EXTINF:-1 tvg-id="综艺大哥大" tvg-name="综艺大哥大" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/综艺大哥大.png" group-title="港台频道",综艺大哥大
+http://192.168.50.1:9000/live.m3u8?c=21
+#EXTINF:-1 tvg-id="龙兄虎弟" tvg-name="龙兄虎弟" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/龙兄虎弟.png" group-title="港台频道",龙兄虎弟
+http://192.168.50.1:9000/live.m3u8?c=22
+#EXTINF:-1 tvg-id="百万大歌星" tvg-name="百万大歌星" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/百万大歌星.png" group-title="港台频道",百万大歌星
+http://192.168.50.1:9000/live.m3u8?c=23
+#EXTINF:-1 tvg-id="鬼话连篇" tvg-name="鬼话连篇" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视.png" group-title="港台频道",鬼话连篇
+http://192.168.50.1:9000/live.m3u8?c=24
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/美亚电影.png" group-title="港台频道",美亚电影
 https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
 #EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/星卫电影.png" group-title="港台频道",星卫电影
@@ -202,3 +206,210 @@ https://epg.pw/stream/3250342568c788b2a08f0718b2a2ad40002007ad28a3b83468d2f33b56
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方频道",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1 tvg-id="徐州1新闻综合" tvg-name="徐州1新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州1新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="徐州2经济生活" tvg-name="徐州2经济生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州2经济生活
+http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="徐州3文艺影视" tvg-name="徐州3文艺影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州3文艺影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="徐州4公共频道" tvg-name="徐州4公共频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州4公共频道
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="甘肃都市频道" tvg-name="甘肃都市频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃都市频道
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 tvg-id="甘肃经济频道" tvg-name="甘肃经济频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃经济频道
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃文化影视
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
+#EXTINF:-1 tvg-id="甘肃少儿频道" tvg-name="甘肃少儿频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃少儿频道
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
+#EXTINF:-1 tvg-id="甘肃移动电视" tvg-name="甘肃移动电视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃移动电视
+https://hls.gstv.com.cn/49048r/y72q36.m3u8
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃公共应急
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
+#EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方频道",兰州新闻综合
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 tvg-id="兰州文旅频道" tvg-name="兰州文旅频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方频道",兰州文旅频道
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
+
+#EXTINF:-1 tvg-id="八卦象棋" tvg-name="八卦象棋" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",八卦象棋
+https://www.goodiptv.club/douyu/851040
+#EXTINF:-1 tvg-id="贝拉" tvg-name="贝拉" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",贝拉
+https://www.goodiptv.club/douyu/3276456
+#EXTINF:-1 tvg-id="辽台经典小品" tvg-name="辽台经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",辽台经典小品
+https://www.goodiptv.club/douyu/9067836
+#EXTINF:-1 tvg-id="赵本山经典小品" tvg-name="赵本山经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",赵本山经典小品
+https://www.goodiptv.club/douyu/9817716
+#EXTINF:-1 tvg-id="开心麻花经典小品" tvg-name="开心麻花经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",开心麻花经典小品
+https://www.goodiptv.club/douyu/10153463
+#EXTINF:-1 tvg-id="宋小宝经典小品" tvg-name="宋小宝经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",宋小宝经典小品
+https://www.goodiptv.club/douyu/9817729
+#EXTINF:-1 tvg-id="许君聪经典小品" tvg-name="许君聪经典小品" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",许君聪经典小品
+https://www.goodiptv.club/douyu/10419558
+#EXTINF:-1 tvg-id="吐槽大会" tvg-name="吐槽大会" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",吐槽大会
+https://www.goodiptv.club/douyu/9236042
+#EXTINF:-1 tvg-id="橙記港剧" tvg-name="橙記港剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",橙記港剧
+https://www.goodiptv.club/douyu/4549169
+#EXTINF:-1 tvg-id="波奶瓶经典港剧" tvg-name="波奶瓶经典港剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",波奶瓶经典港剧
+https://www.goodiptv.club/douyu/6241733
+#EXTINF:-1 tvg-id="疯狂尛瀦瀦经典港剧1" tvg-name="疯狂尛瀦瀦经典港剧1" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",疯狂尛瀦瀦经典港剧1
+https://www.goodiptv.club/douyu/4290711
+#EXTINF:-1 tvg-id="疯狂尛瀦瀦经典港剧2" tvg-name="疯狂尛瀦瀦经典港剧2" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",疯狂尛瀦瀦经典港剧2
+https://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-id="进击D神乐周星驰" tvg-name="进击D神乐周星驰" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",进击D神乐周星驰
+https://www.goodiptv.club/douyu/122402
+#EXTINF:-1 tvg-id="进击的神乐华语经典" tvg-name="进击的神乐华语经典" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",进击的神乐华语经典
+https://www.goodiptv.club/douyu/85894
+#EXTINF:-1 tvg-id="久了旧知恐怖电影" tvg-name="久了旧知恐怖电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",久了旧知恐怖电影
+https://www.goodiptv.club/douyu/310926
+#EXTINF:-1 tvg-id="UnaDirezione林正英" tvg-name="UnaDirezione林正英" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",UnaDirezione林正英
+https://www.goodiptv.club/douyu/218859
+#EXTINF:-1 tvg-id="UU娇哒哒呀鬼片" tvg-name="UU娇哒哒呀鬼片" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",UU娇哒哒呀鬼片
+https://www.goodiptv.club/douyu/96577
+#EXTINF:-1 tvg-id="吃奶滴虫鬼片" tvg-name="吃奶滴虫鬼片" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",吃奶滴虫鬼片
+https://www.goodiptv.club/douyu/263824
+#EXTINF:-1 tvg-id="卖女孩滴小姑凉悍匪" tvg-name="卖女孩滴小姑凉悍匪" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",卖女孩滴小姑凉悍匪
+https://www.goodiptv.club/douyu/922564
+#EXTINF:-1 tvg-id="七落真实案例" tvg-name="七落真实案例" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",七落真实案例
+https://www.goodiptv.club/douyu/10019937
+#EXTINF:-1 tvg-id="孤独的牧羊仁怀旧" tvg-name="孤独的牧羊仁怀旧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",孤独的牧羊仁怀旧
+https://www.goodiptv.club/douyu/6861249
+#EXTINF:-1 tvg-id="都是奔奔的错六小龄童" tvg-name="都是奔奔的错六小龄童" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",都是奔奔的错六小龄童
+https://www.goodiptv.club/douyu/8953746
+#EXTINF:-1 tvg-id="橙沫小幺妹大秦" tvg-name="橙沫小幺妹大秦" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",橙沫小幺妹大秦
+https://www.goodiptv.club/douyu/1584198
+#EXTINF:-1 tvg-id="贝贝电影" tvg-name="贝贝电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",贝贝电影
+https://www.goodiptv.club/douyu/431460
+#EXTINF:-1 tvg-id="蓝翔华语电影" tvg-name="蓝翔华语电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",蓝翔华语电影
+https://www.goodiptv.club/douyu/276200
+#EXTINF:-1 tvg-id="傲娇的虾虾武侠古装" tvg-name="傲娇的虾虾武侠古装" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",傲娇的虾虾武侠古装
+https://www.goodiptv.club/douyu/338759
+#EXTINF:-1 tvg-id="Re爱吃小龙虾许三多" tvg-name="Re爱吃小龙虾许三多" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",Re爱吃小龙虾许三多
+https://www.goodiptv.club/douyu/11651155
+#EXTINF:-1 tvg-id="吃米滴虫港片" tvg-name="吃米滴虫港片" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",吃米滴虫港片
+https://www.goodiptv.club/douyu/315457
+#EXTINF:-1 tvg-id="萌小鬼华语经典" tvg-name="萌小鬼华语经典" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",萌小鬼华语经典
+https://www.goodiptv.club/douyu/3928
+#EXTINF:-1 tvg-id="安全套不套国产" tvg-name="安全套不套国产" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",安全套不套国产
+https://www.goodiptv.club/douyu/5423
+#EXTINF:-1 tvg-id="冰冰经典" tvg-name="冰冰经典" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",冰冰经典
+https://www.goodiptv.club/douyu/74374
+#EXTINF:-1 tvg-id="性感冰激凌剧经典" tvg-name="性感冰激凌剧经典" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",性感冰激凌剧经典
+https://www.goodiptv.club/douyu/7119207
+#EXTINF:-1 tvg-id="PDD影院经典" tvg-name="PDD影院经典" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",PDD影院经典
+https://www.goodiptv.club/douyu/1274132
+#EXTINF:-1 tvg-id="特辑电影院" tvg-name="特辑电影院" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",特辑电影院
+https://www.goodiptv.club/douyu/3637778
+#EXTINF:-1 tvg-id="糖醋小排咕纪晓岚" tvg-name="糖醋小排咕纪晓岚" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",糖醋小排咕纪晓岚
+https://www.goodiptv.club/douyu/11861663
+#EXTINF:-1 tvg-id="Only邵氏" tvg-name="Only邵氏" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",Only邵氏
+https://www.goodiptv.club/douyu/4246519
+#EXTINF:-1 tvg-id="么奶瓶金庸" tvg-name="么奶瓶金庸" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼频道",么奶瓶金庸
+https://www.goodiptv.club/douyu/7644931
+
+#EXTINF:-1 tvg-id="胖猴仔" tvg-name="胖猴仔" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",胖猴仔
+https://www.goodiptv.club/huya/24057412
+#EXTINF:-1 tvg-id="Ayo夏哟哟" tvg-name="Ayo夏哟哟" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",Ayo夏哟哟
+https://www.goodiptv.club/huya/762576
+#EXTINF:-1 tvg-id="不二丸叽" tvg-name="不二丸叽" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",不二丸叽
+https://www.goodiptv.club/huya/628219
+#EXTINF:-1 tvg-id="周童潼" tvg-name="周童潼" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",周童潼
+https://www.goodiptv.club/huya/937430
+#EXTINF:-1 tvg-id="鸽宝小改改" tvg-name="鸽宝小改改" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",鸽宝小改改
+https://www.goodiptv.club/huya/11601970
+#EXTINF:-1 tvg-id="周星星" tvg-name="周星星" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",周星星
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-id="埋堆堆官方" tvg-name="埋堆堆官方" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",埋堆堆官方
+https://www.goodiptv.club/huya/23740156
+#EXTINF:-1 tvg-id="香港刑侦实录笑看风云" tvg-name="香港刑侦实录笑看风云" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",香港刑侦实录笑看风云
+https://www.goodiptv.club/huya/23865058
+#EXTINF:-1 tvg-id="港剧慢品汇笑傲江湖" tvg-name="港剧慢品汇笑傲江湖" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",港剧慢品汇笑傲江湖
+https://www.goodiptv.club/huya/23865142
+#EXTINF:-1 tvg-id="梁非凡创世纪" tvg-name="梁非凡创世纪" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",梁非凡创世纪
+https://www.goodiptv.club/huya/23749083
+#EXTINF:-1 tvg-id="我是周粤驰寻秦记" tvg-name="我是周粤驰寻秦记" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",我是周粤驰寻秦记
+https://www.goodiptv.club/huya/23864973
+#EXTINF:-1 tvg-id="我叫山鸡哥倚天屠龙记" tvg-name="我叫山鸡哥倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",我叫山鸡哥倚天屠龙记
+https://www.goodiptv.club/huya/23734246
+#EXTINF:-1 tvg-id="为所欲为的墨镜哥大时代" tvg-name="为所欲为的墨镜哥大时代" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",为所欲为的墨镜哥大时代
+https://www.goodiptv.club/huya/23865161
+#EXTINF:-1 tvg-id="小木子先生纪晓岚" tvg-name="小木子先生纪晓岚" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",小木子先生纪晓岚
+https://www.goodiptv.club/huya/11342396
+#EXTINF:-1 tvg-id="地狱妖妖韩剧" tvg-name="地狱妖妖韩剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",地狱妖妖韩剧
+https://www.goodiptv.club/huya/11352869
+#EXTINF:-1 tvg-id="若凌美食纪录片" tvg-name="若凌美食纪录片" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",若凌美食纪录片
+https://www.goodiptv.club/huya/11352955
+#EXTINF:-1 tvg-id="萌新司机大秦" tvg-name="萌新司机大秦" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",萌新司机大秦
+https://www.goodiptv.club/huya/11352881
+#EXTINF:-1 tvg-id="粉娘神医" tvg-name="粉娘神医" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",粉娘神医
+https://www.goodiptv.club/huya/11601978
+#EXTINF:-1 tvg-id="沐小错传统与现代碰撞" tvg-name="沐小错传统与现代碰撞" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",沐小错传统与现代碰撞
+https://www.goodiptv.club/huya/11352956
+#EXTINF:-1 tvg-id="漓江塔金庸经典剧" tvg-name="漓江塔金庸经典剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",漓江塔金庸经典剧
+https://www.goodiptv.club/huya/11602082
+#EXTINF:-1 tvg-id="傻妞满院白眼狼" tvg-name="傻妞满院白眼狼" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",傻妞满院白眼狼
+https://www.goodiptv.club/huya/11342426
+#EXTINF:-1 tvg-id="全优少年桃园结义" tvg-name="全优少年桃园结义" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",全优少年桃园结义
+https://www.goodiptv.club/huya/11602081
+#EXTINF:-1 tvg-id="摄氏零度品三国" tvg-name="摄氏零度品三国" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",摄氏零度品三国
+https://www.goodiptv.club/huya/11602032
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="陈翔六点半" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",陈翔六点半
+https://www.goodiptv.club/huya/11274154
+#EXTINF:-1 tvg-id="千里陈佩斯" tvg-name="千里陈佩斯" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",千里陈佩斯
+https://www.goodiptv.club/huya/20985776
+#EXTINF:-1 tvg-id="王天一" tvg-name="王天一" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",王天一
+https://www.goodiptv.club/huya/822251
+#EXTINF:-1 tvg-id="二次元控盗墓贼家女儿" tvg-name="二次元控盗墓贼家女儿" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",二次元控盗墓贼家女儿
+https://www.goodiptv.club/huya/11352912
+#EXTINF:-1 tvg-id="7喜先生林正英" tvg-name="7喜先生林正英" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",7喜先生林正英
+https://www.goodiptv.club/huya/11342421
+#EXTINF:-1 tvg-id="胖次过肩摔死神来了" tvg-name="胖次过肩摔死神来了" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",胖次过肩摔死神来了
+https://www.goodiptv.club/huya/11352903
+#EXTINF:-1 tvg-id="虎牙八点档" tvg-name="虎牙八点档" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",虎牙八点档
+https://www.goodiptv.club/huya/880261
+#EXTINF:-1 tvg-id="浮生没有若梦贺岁档" tvg-name="浮生没有若梦贺岁档" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",浮生没有若梦贺岁档
+https://www.goodiptv.club/huya/11601986
+#EXTINF:-1 tvg-id="核桃姐姐李连杰" tvg-name="核桃姐姐李连杰" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",核桃姐姐李连杰
+https://www.goodiptv.club/huya/11342390
+#EXTINF:-1 tvg-id="虎牙影院沈腾" tvg-name="虎牙影院沈腾" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",虎牙影院沈腾
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 tvg-id="偷心大盗成龙" tvg-name="偷心大盗成龙" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",偷心大盗成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 tvg-id="樹袋熊小九九五福星" tvg-name="樹袋熊小九九五福星" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",樹袋熊小九九五福星
+https://www.goodiptv.club/huya/11282233
+#EXTINF:-1 tvg-id="领带哥许三多" tvg-name="领带哥许三多" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",领带哥许三多
+https://www.goodiptv.club/huya/11342430
+#EXTINF:-1 tvg-id="四大裁子之首王晶" tvg-name="四大裁子之首王晶" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",四大裁子之首王晶
+https://www.goodiptv.club/huya/11602058
+#EXTINF:-1 tvg-id="开船老湿基周润发" tvg-name="开船老湿基周润发" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",开船老湿基周润发
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 tvg-id="蓶1淳爷山鸡哥" tvg-name="蓶1淳爷山鸡哥" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",蓶1淳爷山鸡哥
+https://www.goodiptv.club/huya/11336719
+#EXTINF:-1 tvg-id="实力拔萝卜搞笑恐怖" tvg-name="实力拔萝卜搞笑恐怖" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",实力拔萝卜搞笑恐怖
+https://www.goodiptv.club/huya/11601960
+#EXTINF:-1 tvg-id="牙缝多了根青菜" tvg-name="牙缝多了根青菜" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",牙缝多了根青菜
+https://www.goodiptv.club/huya/11352877
+#EXTINF:-1 tvg-id="槽老师女神系列" tvg-name="槽老师女神系列" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",槽老师女神系列
+https://www.goodiptv.club/huya/11336571
+#EXTINF:-1 tvg-id="大侠阳光的快乐生活" tvg-name="大侠阳光的快乐生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",大侠阳光的快乐生活
+https://www.goodiptv.club/huya/11602085
+#EXTINF:-1 tvg-id="逗比宝宝经典金庸群侠" tvg-name="逗比宝宝经典金庸群侠" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",逗比宝宝经典金庸群侠
+https://www.goodiptv.club/huya/11342427
+#EXTINF:-1 tvg-id="鱼塘塘主新水浒" tvg-name="鱼塘塘主新水浒" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",鱼塘塘主新水浒
+https://www.goodiptv.club/huya/11342384
+#EXTINF:-1 tvg-id="来瓶肥宅水吐槽大会" tvg-name="来瓶肥宅水吐槽大会" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",来瓶肥宅水吐槽大会
+https://www.goodiptv.club/huya/21059555
+#EXTINF:-1 tvg-id="微微影视黑帮" tvg-name="微微影视黑帮" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",微微影视黑帮
+https://www.goodiptv.club/huya/24527617
+#EXTINF:-1 tvg-id="赢城鬼片" tvg-name="赢城鬼片" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",赢城鬼片
+https://www.goodiptv.club/huya/23796393
+#EXTINF:-1 tvg-id="学妹爱学长警匪" tvg-name="学妹爱学长警匪" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",学妹爱学长警匪
+https://www.goodiptv.club/huya/11352886
+#EXTINF:-1 tvg-id="科技这样玩许氏三杰" tvg-name="科技这样玩许氏三杰" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",科技这样玩许氏三杰
+https://www.goodiptv.club/huya/11602033
+#EXTINF:-1 tvg-id="笙歌经典港剧" tvg-name="笙歌经典港剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",笙歌经典港剧
+https://www.goodiptv.club/huya/11352965
+#EXTINF:-1 tvg-id="铁血真汉子国产悬疑" tvg-name="铁血真汉子国产悬疑" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",铁血真汉子国产悬疑
+https://www.goodiptv.club/huya/11342395
+#EXTINF:-1 tvg-id="汽车人喜剧" tvg-name="汽车人喜剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",汽车人喜剧
+https://www.goodiptv.club/huya/11352897
+
