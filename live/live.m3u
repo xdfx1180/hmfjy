@@ -207,11 +207,11 @@ https://epg.pw/stream/3250342568c788b2a08f0718b2a2ad40002007ad28a3b83468d2f33b56
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方频道",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="徐州1新闻综合" tvg-name="徐州1新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州1新闻综合
-http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="徐州2经济生活" tvg-name="徐州2经济生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州2经济生活
-http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 #EXTINF:-1 tvg-id="徐州3文艺影视" tvg-name="徐州3文艺影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州3文艺影视
-http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-id="徐州4公共频道" tvg-name="徐州4公共频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州4公共频道
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="甘肃都市频道" tvg-name="甘肃都市频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃都市频道
