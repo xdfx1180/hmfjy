@@ -185,11 +185,11 @@ http://192.168.50.1:9000/live.m3u8?c=16
 http://192.168.50.1:9000/live.m3u8?c=17
 #EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台频道",新唐人亚太台
 http://192.168.50.1:9000/live.m3u8?c=18
-#EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
+#EXTINF:-1 tvg-id="华藏卫视" tvg-name="華藏衛視" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
 http://192.168.50.1:9000/live.m3u8?c=19
-#EXTINF:-1 tvg-id="淨空法師" tvg-name="淨空法師" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",淨空法師
+#EXTINF:-1 tvg-id="淨空法師" tvg-name="佛陀教育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",淨空法師
 http://192.168.50.1:9000/live.m3u8?c=20
-#EXTINF:-1 tvg-id="生命电视台" tvg-name="生命电视台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
+#EXTINF:-1 tvg-id="生命电视台" tvg-name="生命電視台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
 https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 #EXTINF:-1 tvg-id="综艺大哥大" tvg-name="综艺大哥大" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/综艺大哥大.png" group-title="港台频道",综艺大哥大
 http://192.168.50.1:9000/live.m3u8?c=21
@@ -199,9 +199,9 @@ http://192.168.50.1:9000/live.m3u8?c=22
 http://192.168.50.1:9000/live.m3u8?c=23
 #EXTINF:-1 tvg-id="鬼话连篇" tvg-name="鬼话连篇" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视.png" group-title="港台频道",鬼话连篇
 http://192.168.50.1:9000/live.m3u8?c=24
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/美亚电影.png" group-title="港台频道",美亚电影
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/美亚电影.png" group-title="港台频道",美亚电影
 https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
-#EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/星卫电影.png" group-title="港台频道",星卫电影
+#EXTINF:-1 tvg-id="星卫电影" tvg-name="星衛HD電影台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/星卫电影.png" group-title="港台频道",星卫电影
 https://epg.pw/stream/3250342568c788b2a08f0718b2a2ad40002007ad28a3b83468d2f33b560f86f2.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方频道",五星体育
