@@ -199,15 +199,11 @@ http://192.168.50.1:9000/live.m3u8?c=22
 http://192.168.50.1:9000/live.m3u8?c=23
 #EXTINF:-1 tvg-id="鬼话连篇" tvg-name="鬼话连篇" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视.png" group-title="港台频道",鬼话连篇
 http://192.168.50.1:9000/live.m3u8?c=24
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/美亚电影.png" group-title="港台频道",美亚电影
-https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
-#EXTINF:-1 tvg-id="星卫电影" tvg-name="星衛HD電影台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/星卫电影.png" group-title="港台频道",星卫电影
-https://epg.pw/stream/3250342568c788b2a08f0718b2a2ad40002007ad28a3b83468d2f33b560f86f2.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方频道",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="徐州1新闻综合" tvg-name="徐州1新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州1新闻综合
-https://pull.live.xztv.tv/live/xztv01.flv
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州1新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="徐州2经济生活" tvg-name="徐州2经济生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州2经济生活
 https://pull.live.xztv.tv/live/xztv02.flv
 #EXTINF:-1 tvg-id="徐州3文艺影视" tvg-name="徐州3文艺影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州3文艺影视
@@ -222,8 +218,6 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
 #EXTINF:-1 tvg-id="甘肃少儿频道" tvg-name="甘肃少儿频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃少儿频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 tvg-id="甘肃移动电视" tvg-name="甘肃移动电视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃移动电视
-https://hls.gstv.com.cn/49048r/y72q36.m3u8
 #EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃公共应急
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
 #EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方频道",兰州新闻综合
