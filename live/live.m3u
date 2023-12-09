@@ -155,16 +155,18 @@ http://192.168.50.1:9000/live.m3u8?c=1
 http://192.168.50.1:9000/live.m3u8?c=2
 #EXTINF:-1 tvg-id="三立iNEWS+" tvg-name="三立iNEWS+" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台频道",三立iNEWS+
 http://192.168.50.1:9000/live.m3u8?c=3
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="港台频道",民视新闻
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="港台频道",民视新闻
 http://192.168.50.1:9000/live.m3u8?c=4
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="港台频道",台视新闻
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="港台频道",台视新闻
 http://192.168.50.1:9000/live.m3u8?c=5
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="港台频道",中视新闻
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="港台频道",中视新闻
 http://192.168.50.1:9000/live.m3u8?c=6
 #EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/公视新闻.png" group-title="港台频道",公视新闻
 http://192.168.50.1:9000/live.m3u8?c=7
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台频道",东森新闻
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台频道",东森新闻
 http://192.168.50.1:9000/live.m3u8?c=8
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台频道",东森财经新闻
+http://192.168.50.1:9000/live.m3u8?c=25
 #EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台频道",东森LIVE
 http://192.168.50.1:9000/live.m3u8?c=9
 #EXTINF:-1 tvg-id="东森世界日报" tvg-name="东森世界日报" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台频道",东森世界日报
@@ -175,21 +177,21 @@ http://192.168.50.1:9000/live.m3u8?c=11
 http://192.168.50.1:9000/live.m3u8?c=12
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台频道",TVBS
 http://192.168.50.1:9000/live.m3u8?c=13
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台频道",寰宇新闻
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台频道",寰宇新闻
 http://192.168.50.1:9000/live.m3u8?c=14
 #EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台频道",寰宇新闻台湾台
 http://192.168.50.1:9000/live.m3u8?c=15
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/镜新闻.png" group-title="港台频道",镜新闻
 http://192.168.50.1:9000/live.m3u8?c=16
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="港台频道",中天新闻
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="港台频道",中天新闻
 http://192.168.50.1:9000/live.m3u8?c=17
 #EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台频道",新唐人亚太台
 http://192.168.50.1:9000/live.m3u8?c=18
-#EXTINF:-1 tvg-id="华藏卫视" tvg-name="華藏衛視" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
+#EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",华藏卫视
 http://192.168.50.1:9000/live.m3u8?c=19
 #EXTINF:-1 tvg-id="淨空法師" tvg-name="佛陀教育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台频道",淨空法師
 http://192.168.50.1:9000/live.m3u8?c=20
-#EXTINF:-1 tvg-id="生命电视台" tvg-name="生命電視台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
+#EXTINF:-1 tvg-id="生命" tvg-name="生命" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台频道",生命电视台
 https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 #EXTINF:-1 tvg-id="综艺大哥大" tvg-name="综艺大哥大" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/综艺大哥大.png" group-title="港台频道",综艺大哥大
 http://192.168.50.1:9000/live.m3u8?c=21
@@ -210,13 +212,13 @@ https://pull.live.xztv.tv/live/xztv02.flv
 https://pull.live.xztv.tv/live/xztv03.flv
 #EXTINF:-1 tvg-id="徐州公共频道" tvg-name="徐州公共频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方频道",徐州公共频道
 https://pull.live.xztv.tv/live/xztv04.flv
-#EXTINF:-1 tvg-id="甘肃都市频道" tvg-name="甘肃都市频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃都市频道
+#EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃都市频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 tvg-id="甘肃经济频道" tvg-name="甘肃经济频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃经济频道
+#EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃经济频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
 #EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 tvg-id="甘肃少儿频道" tvg-name="甘肃少儿频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃少儿频道
+#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃少儿频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
 #EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方频道",甘肃公共应急
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
