@@ -408,3 +408,6 @@ https://www.goodiptv.club/huya/11352965
 https://www.goodiptv.club/huya/11342395
 #EXTINF:-1 tvg-id="汽车人喜剧" tvg-name="汽车人喜剧" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙频道",汽车人喜剧
 https://www.goodiptv.club/huya/11352897
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/1905电影.png" group-title="老电影",小兵张嘎
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
