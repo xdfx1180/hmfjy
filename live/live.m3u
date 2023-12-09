@@ -468,21 +468,3 @@ https://pull.live.xztv.tv/live/1630867762166321152.flv
 https://pull.live.xztv.tv/live/1630867907255685120.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/徐州广播.png" group-title="广播",徐州幸福广播FM105
 https://pull.live.xztv.tv/live/1630868067931082752.flv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃新闻综合FM96
-https://hls.gstv.com.cn/9hvng2/3l8548.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃都市调频FM106.6
-https://hls.gstv.com.cn/9hvng2/3o3565.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃交通广播FM103.5
-https://hls.gstv.com.cn/9hvng2/189xap.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃青春调频FM104.8
-https://hls.gstv.com.cn/9hvng2/ic83k2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃经济广播FM93.4
-https://hls.gstv.com.cn/9hvng2/kjs9sv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="广播",甘肃农村广播
-https://hls.gstv.com.cn/9hvng2/q7q84k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="广播",兰州交通音乐FM99.5
-https://ytcastmp32.radio.cn/127/stream_11143.mp3?type=1&key=a6939758f12c89dc19b7828bba2560a4&time=656ff736
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="广播",兰州生活文艺FM100.8
-https://ytcastmp32.radio.cn/127/stream_11141.mp3?type=1&key=5a525e35eb2b97685d1b6656524c2862&time=656ff7e1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="广播",兰州新闻综合FM97.3
-https://ytcastmp32.radio.cn/127/stream_11144.mp3?type=1&key=a3699b79ff491846323c409bfdcdcd02&time=656ff846
