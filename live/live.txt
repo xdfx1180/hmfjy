@@ -450,15 +450,3 @@ Ayo夏哟哟,https://www.goodiptv.club/huya/762576
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
 霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
 大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
-
-广播,#genre#
-法国国际广播电台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-美国之音,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-自由亚洲电台,https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
-自由亚洲电台,http://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
-徐州新闻广播FM93,https://pull.live.xztv.tv/live/1630867595459514368.flv
-徐州交通广播FM103.3,https://pull.live.xztv.tv/live/1630867762166321152.flv
-徐州音乐广播FM91.9,https://pull.live.xztv.tv/live/1630867907255685120.flv
-徐州幸福广播FM105,https://pull.live.xztv.tv/live/1630868067931082752.flv
