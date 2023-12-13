@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/法国国际广播电台.png" group-title="国际",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/美国之音.png" group-title="国际",美国之音
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/自由亚洲电台.png" group-title="国际",自由亚洲电台
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/台北广播电台.png" group-title="国际",台北广播电台
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/徐州广播.png" group-title="地方",徐州新闻广播FM93
+https://pull.live.xztv.tv/live/1630867595459514368.flv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/徐州广播.png" group-title="地方",徐州交通广播FM103.3
+https://pull.live.xztv.tv/live/1630867762166321152.flv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/徐州广播.png" group-title="地方",徐州音乐广播FM91.9
+https://pull.live.xztv.tv/live/1630867907255685120.flv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/徐州广播.png" group-title="地方",徐州幸福广播FM105
+https://pull.live.xztv.tv/live/1630868067931082752.flv
