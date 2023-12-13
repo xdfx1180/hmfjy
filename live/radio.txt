@@ -6,8 +6,35 @@
 台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
 
+央广,#genre#
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 文艺之声,https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 老年之声,https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 香港之声,https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 中国交通广播,https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR 环球资讯广播,https://sk.cri.cn/905.m3u8
+CRI 轻松调频,http://sk.cri.cn/915.m3u8
+CRI HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+
 地方,#genre#
 徐州新闻广播FM93,https://pull.live.xztv.tv/live/1630867595459514368.flv
 徐州交通广播FM103.3,https://pull.live.xztv.tv/live/1630867762166321152.flv
 徐州音乐广播FM91.9,https://pull.live.xztv.tv/live/1630867907255685120.flv
 徐州幸福广播FM105,https://pull.live.xztv.tv/live/1630868067931082752.flv
+上海Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
+
+网络,#genre#
+Big B Radio 中文流行,http://cpop.bigbradio.net/s
+Big B Radio 中文流行,https://antares.dribbcast.com/proxy/cpop?mp=/s
+Big B Radio 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio 韩语流行,https://antares.dribbcast.com/proxy/kpop?mp=/s
+Big B Radio 日语流行,http://jpop.bigbradio.net/s
+Big B Radio 日语流行,https://antares.dribbcast.com/proxy/jpop?mp=/s
+Big B Radio 亚洲流行,http://apop.bigbradio.net/s
+Big B Radio 亚洲流行,https://antares.dribbcast.com/proxy/apop?mp=/s
+
