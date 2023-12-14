@@ -7,9 +7,9 @@ https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/台北广播电台.png" group-title="国际",台北广播电台
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="境外广播" radio="true",中广新闻网
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="国际" radio="true",中广新闻网
 http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="境外广播" radio="true",中广音乐网
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="国际" radio="true",中广音乐网
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
 
 
