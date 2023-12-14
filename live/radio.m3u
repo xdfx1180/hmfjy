@@ -7,6 +7,11 @@ https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/台北广播电台.png" group-title="国际",台北广播电台
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="境外广播" radio="true",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="境外广播" radio="true",中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/央广网.png" group-title="央广",CNR 中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -37,6 +42,10 @@ http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/央广网.png" group-title="央广",CRI HITFM国际流行音乐
 https://sk.cri.cn/887.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/Love Radio.png" group-title="地方",上海Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/格莱美音乐台.png" group-title="地方",,河南格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方",徐州新闻广播FM93
 https://pull.live.xztv.tv/live/1630867595459514368.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方",徐州交通广播FM103.3
@@ -45,8 +54,11 @@ https://pull.live.xztv.tv/live/1630867762166321152.flv
 https://pull.live.xztv.tv/live/1630867907255685120.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方",徐州幸福广播FM105
 https://pull.live.xztv.tv/live/1630868067931082752.flv
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="地方",上海Love Radio
-http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="音乐广播" radio="true",甘肃都市调频
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="综合广播" radio="true",甘肃经济广播
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/Big B Radio.png" group-title="网络" radio="true",Big B Radio 中文流行
 http://cpop.bigbradio.net/s
@@ -56,3 +68,15 @@ http://kpop.bigbradio.net/s
 http://jpop.bigbradio.net/s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/Big B Radio.png" group-title="网络" radio="true",Big B Radio 亚洲流行
 http://apop.bigbradio.net/s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM 亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/AsiaFM.png" group-title="网络",AsiaFM 亚洲粤语台
+http://yyt.asiafm.net:8000/asiafm
