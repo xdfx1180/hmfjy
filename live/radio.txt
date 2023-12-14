@@ -5,6 +5,8 @@
 自由亚洲电台,http://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 台北广播电台,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 
 央广,#genre#
 CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -22,11 +24,14 @@ CRI 轻松调频,http://sk.cri.cn/915.m3u8
 CRI HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 
 地方,#genre#
+上海Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
+河南格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 徐州新闻广播FM93,https://pull.live.xztv.tv/live/1630867595459514368.flv
 徐州交通广播FM103.3,https://pull.live.xztv.tv/live/1630867762166321152.flv
 徐州音乐广播FM91.9,https://pull.live.xztv.tv/live/1630867907255685120.flv
 徐州幸福广播FM105,https://pull.live.xztv.tv/live/1630868067931082752.flv
-上海Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
+甘肃都市调频,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+甘肃经济广播,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 
 网络,#genre#
 Big B Radio 中文流行,http://cpop.bigbradio.net/s
@@ -37,4 +42,9 @@ Big B Radio 日语流行,http://jpop.bigbradio.net/s
 Big B Radio 日语流行,https://antares.dribbcast.com/proxy/jpop?mp=/s
 Big B Radio 亚洲流行,http://apop.bigbradio.net/s
 Big B Radio 亚洲流行,https://antares.dribbcast.com/proxy/apop?mp=/s
-
+AsiaFM 亚洲热歌台,http://hot.asiafm.net:8000/asiafm
+AsiaFM 亚洲音乐台,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲经典台,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空台,http://funradio.cn:8000/funradio
+AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲粤语台,http://yyt.asiafm.net:8000/asiafm
