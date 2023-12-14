@@ -24,8 +24,7 @@ CRI 轻松调频,http://sk.cri.cn/915.m3u8
 CRI HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 
 地方,#genre#
-上海Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
-河南格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+上海动感101,http://live.cooltv.top/tv/news1296.php?id=4
 徐州新闻广播FM93,https://pull.live.xztv.tv/live/1630867595459514368.flv
 徐州交通广播FM103.3,https://pull.live.xztv.tv/live/1630867762166321152.flv
 徐州音乐广播FM91.9,https://pull.live.xztv.tv/live/1630867907255685120.flv
@@ -48,3 +47,18 @@ AsiaFM 亚洲经典台,http://goldfm.cn:8000/goldfm
 AsiaFM 亚洲天空台,http://funradio.cn:8000/funradio
 AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 AsiaFM 亚洲粤语台,http://yyt.asiafm.net:8000/asiafm
+Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+天籁之音 - 经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 - Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
