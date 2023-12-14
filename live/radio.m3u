@@ -44,7 +44,7 @@ https://sk.cri.cn/887.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/Love Radio.png" group-title="地方",上海Love Radio
 http://live.cooltv.top/tv/news1296.php?id=7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/格莱美音乐台.png" group-title="地方",,河南格莱美音乐台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/格莱美音乐台.png" group-title="地方",河南格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方",徐州新闻广播FM93
 https://pull.live.xztv.tv/live/1630867595459514368.flv
