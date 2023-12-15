@@ -291,10 +291,6 @@ TVBS,http://192.168.50.1:9000/live.m3u8?c=13
 镜新闻,http://192.168.50.1:9000/live.m3u8?c=16
 中天新闻,http://192.168.50.1:9000/live.m3u8?c=17
 新唐人亚太台,http://192.168.50.1:9000/live.m3u8?c=18
-综艺大哥大,http://192.168.50.1:9000/live.m3u8?c=21
-龙兄虎弟,http://192.168.50.1:9000/live.m3u8?c=22
-百万大歌星,http://192.168.50.1:9000/live.m3u8?c=23
-鬼话连篇,http://192.168.50.1:9000/live.m3u8?c=24
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
