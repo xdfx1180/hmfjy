@@ -205,7 +205,7 @@ https://epg.pw/stream/e13c9b96d252b657b1b07bdff69614aa4d4992bf058df1f8a9140e6123
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州新闻综合
-https://pull.live.xztv.tv/live/xztv01.flv
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="徐州经济生活" tvg-name="徐州经济生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州经济生活
 https://pull.live.xztv.tv/live/xztv02.flv
 #EXTINF:-1 tvg-id="徐州文艺影视" tvg-name="徐州文艺影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州文艺影视
