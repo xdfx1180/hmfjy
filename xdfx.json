@@ -1,22 +1,6 @@
 {
     "urls": [
-           
-        {
-            "url": "https://raw.githubusercontent.com/xdfx1180/hmfjy/play/hmfjy.json",
-            "name": "🌏xdfx"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/xdfx1180/hmfjy/play/cr.json",
-            "name": "😍cr"
-        },
-        {
-            "url": "https://agit.ai/xdfx/play/raw/branch/master/hmfjy.json",
-            "name": "🌏备用"
-        },                
-        {
-            "url": "https://agit.ai/xdfx/play/raw/branch/master/cr.json",
-            "name": "😍备用"
-        },                 
+                            
         {
             "url": "http://肥猫.live/",
             "name": "💖肥猫"
@@ -28,14 +12,10 @@
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🛻运输车"
-        },
+        }，                     
         {
-            "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "✨荷城茶秀"
-        },                      
-        {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "💨高天流云（道长）"
+            "url": "http://192.168.50.1:4567/sub/0",
+            "name": "💨小雅"
         }
     ],
     "vip": [
