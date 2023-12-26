@@ -3,23 +3,27 @@
                             
         {
             "url": "https://raw.githubusercontent.com/xdfx1180/hmfjy/play/cr.json",
-            "name": "😍cr"
-        },
-        {
-            "url": "http://肥猫.live/",
-            "name": "💖肥猫"
-        },
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🛻运输车"
+            "name": "xdfx"
         },
         {
             "url": "http://192.168.50.1:4567/sub/0",
-            "name": "💨小雅"
+            "name": "小雅"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "http://肥猫.live/",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "运输车"
         }
     ],
     "vip": [
