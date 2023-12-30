@@ -6,7 +6,7 @@
 {"group": "redirect","channels": [{
 "name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hkZngxMTgwL2htZmp5L3BsYXkvbGl2ZS9jci50eHQ="]}
 ]}
-]，
+],
 
 "sites":[
 {"key":"","name":"😍","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
@@ -33,7 +33,7 @@
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"19","name":"😍","type":0,"api":""}
-]，
+],
 
 "parses":[
 {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
@@ -43,7 +43,7 @@
 {"name":"☑parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name": "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"☑夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="}
-]，
+],
 "flags":["youku","qq","iqiyi","qiyi","letv","le","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","CL4K","qq","腾讯","pptv","PPTV","ltnb","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","miaoparty","rx","rongxing","xfyun","rrm3u8","xueren","zijian","1905","m1905","dbm3u8","mgtv","leduo","duoduozy","wasu","fuckapp","ftqp2","ftqp3","ftqp4",    "ftqp5","longteng", "ziqie","wuduzy","xuanfeng","xigua"],
 "ijk":[
 {"group":"软解码","options":[
