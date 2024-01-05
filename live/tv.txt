@@ -225,9 +225,8 @@ CCTV 女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 
 港台,#genre#
 华藏卫视,http://192.168.50.1:9000/live.m3u8?c=19
-淨空法師,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-淨空法師,https://epg.pw/stream/3d225763259c694c6c8043cbcb631d619b885234939eae87247bc232e047c580.m3u8
-淨空法師,https://epg.pw/stream/5a1ca247cb8ecd5a7e72c6873c40ba665dd26bb2dce7bd05a91479b367887d61.m3u8
+净空法师,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+净空法师,https://epg.pw/stream/3d225763259c694c6c8043cbcb631d619b885234939eae87247bc232e047c580.m3u8
 净空法师,http://192.168.50.1:9000/live.m3u8?c=20
 生命电视台,https://epg.pw/stream/e13c9b96d252b657b1b07bdff69614aa4d4992bf058df1f8a9140e61238319d1.m3u8
 生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
