@@ -344,7 +344,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 宋小宝经典小品,https://www.goodiptv.club/douyu/9817729
 吐槽大会,https://www.goodiptv.club/douyu/9236042
 万合出品,https://www.goodiptv.club/douyu/9220456
-进击D神乐周星驰,https://www.goodiptv.club/douyu/122402
+进击D神乐周星驰,http://192.168.50.1:35455/douyu/122402
 橙記港剧,https://www.goodiptv.club/douyu/4549169
 波奶瓶经典港剧,https://www.goodiptv.club/douyu/6241733
 疯狂尛瀦瀦经典港剧1,https://www.goodiptv.club/douyu/4290711
@@ -384,7 +384,7 @@ Ayo夏哟哟,https://www.goodiptv.club/huya/762576
 周童潼,https://www.goodiptv.club/huya/937430
 多痣,https://www.goodiptv.club/huya/297385
 你的圈圈儿,https://www.goodiptv.club/huya/297376
-周星星,https://www.goodiptv.club/huya/11342412
+周星星,http://192.168.50.1:35455/huya/11342412(?cdn=HW)
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 来瓶肥宅水吐槽大会,https://www.goodiptv.club/huya/21059555
 千里陈佩斯,https://www.goodiptv.club/huya/20985776
