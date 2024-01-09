@@ -155,45 +155,45 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
 
 #EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="港台",三立新闻
-http://192.168.50.1:9000/live.m3u8?c=1
+http://192.168.50.1:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立iNEWS
-http://192.168.50.1:9000/live.m3u8?c=2
+http://192.168.50.1:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-id="三立iNEWS+" tvg-name="三立iNEWS+" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立iNEWS+
-http://192.168.50.1:9000/live.m3u8?c=3
+http://192.168.50.1:35455/youtube/oZdzzvxTfUY
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="港台",民视新闻
-http://192.168.50.1:9000/live.m3u8?c=4
+http://192.168.50.1:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="港台",台视新闻
-http://192.168.50.1:9000/live.m3u8?c=5
+http://192.168.50.1:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="港台",中视新闻
-http://192.168.50.1:9000/live.m3u8?c=6
+http://192.168.50.1:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/公视新闻.png" group-title="港台",公视新闻
-http://192.168.50.1:9000/live.m3u8?c=7
+http://192.168.50.1:35455/youtube/quwqlazU-c8
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台",东森新闻
-http://192.168.50.1:9000/live.m3u8?c=26
+http://192.168.50.1:35455/youtube/2dfAzcDf8Zg
 #EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台",东森财经新闻
-http://192.168.50.1:9000/live.m3u8?c=25
+http://192.168.50.1:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台",东森LIVE
-http://192.168.50.1:9000/live.m3u8?c=9
+http://192.168.50.1:35455/youtube/E0zhe2gkXBs
 #EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS NEWS
-http://192.168.50.1:9000/live.m3u8?c=11
+http://192.168.50.1:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS新闻
-http://192.168.50.1:9000/live.m3u8?c=12
+http://192.168.50.1:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS
-http://192.168.50.1:9000/live.m3u8?c=13
+http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台",寰宇新闻
-http://192.168.50.1:9000/live.m3u8?c=14
+http://192.168.50.1:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台",寰宇新闻台湾台
-http://192.168.50.1:9000/live.m3u8?c=15
+http://192.168.50.1:35455/youtube/w87VGpgd90U
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/镜新闻.png" group-title="港台",镜新闻
-http://192.168.50.1:9000/live.m3u8?c=16
+http://192.168.50.1:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="港台",中天新闻
-http://192.168.50.1:9000/live.m3u8?c=17
+http://192.168.50.1:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台",新唐人亚太台
-http://192.168.50.1:9000/live.m3u8?c=18
+http://192.168.50.1:35455/youtube/WIhgU_mc05A
 #EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台",华藏卫视
-http://192.168.50.1:9000/live.m3u8?c=19
+http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
 #EXTINF:-1 tvg-id="淨空法師" tvg-name="佛陀教育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台",淨空法師
-http://192.168.50.1:9000/live.m3u8?c=20
+http://192.168.50.1:35455/youtube/JCIVsura-0A
 #EXTINF:-1 tvg-id="生命" tvg-name="生命" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台",生命电视台
 https://epg.pw/stream/e13c9b96d252b657b1b07bdff69614aa4d4992bf058df1f8a9140e61238319d1.m3u8
 
@@ -400,117 +400,117 @@ http://192.168.50.1:35455/douyu/7644931
 http://192.168.50.1:35455/douyu/52787
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",王天一
-https://www.goodiptv.club/huya/822251
+http://192.168.50.1:35455/huya/822251
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",胖猴仔
-https://www.goodiptv.club/huya/24057412
+http://192.168.50.1:35455/huya/24057412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",若凌美食纪录片
-https://www.goodiptv.club/huya/11352955
+http://192.168.50.1:35455/huya/11352955
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",摄氏零度品三国
-https://www.goodiptv.club/huya/11602032
+http://192.168.50.1:35455/huya/11602032
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",Ayo夏哟哟
-https://www.goodiptv.club/huya/762576
+http://192.168.50.1:35455/huya/762576
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",不二丸叽
-https://www.goodiptv.club/huya/628219
+http://192.168.50.1:35455/huya/628219
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周童潼
-https://www.goodiptv.club/huya/937430
+http://192.168.50.1:35455/huya/937430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",多痣
-https://www.goodiptv.club/huya/297385
+http://192.168.50.1:35455/huya/297385
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",你的圈圈儿
-https://www.goodiptv.club/huya/297376
+http://192.168.50.1:35455/huya/297376
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周星星
-http://192.168.50.1:35455/huya/11342412(?cdn=HW)
+http://192.168.50.1:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",陈翔六点半
-https://www.goodiptv.club/huya/11274154
+http://192.168.50.1:35455/huya/11274154
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",来瓶肥宅水吐槽大会
-https://www.goodiptv.club/huya/21059555
+http://192.168.50.1:35455/huya/21059555
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",千里陈佩斯
-https://www.goodiptv.club/huya/20985776
+http://192.168.50.1:35455/huya/20985776
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",埋堆堆官方
-https://www.goodiptv.club/huya/23740156
+http://192.168.50.1:35455/huya/23740156
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",香港刑侦实录笑看风云
-https://www.goodiptv.club/huya/23865058
+http://192.168.50.1:35455/huya/23865058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",港剧慢品汇笑傲江湖
-https://www.goodiptv.club/huya/23865142
+http://192.168.50.1:35455/huya/23865142
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",梁非凡创世纪
-https://www.goodiptv.club/huya/23749083
+http://192.168.50.1:35455/huya/23749083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我是周粤驰寻秦记
-https://www.goodiptv.club/huya/23864973
+http://192.168.50.1:35455/huya/23864973
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我叫山鸡哥倚天屠龙记
-https://www.goodiptv.club/huya/23734246
+http://192.168.50.1:35455/huya/23734246
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",为所欲为的墨镜哥大时代
-https://www.goodiptv.club/huya/23865161
+http://192.168.50.1:35455/huya/23865161
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",漓江塔金庸经典剧
-https://www.goodiptv.club/huya/11602082
+http://192.168.50.1:35455/huya/11602082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鸽宝小改改征服
-https://www.goodiptv.club/huya/11601970
+http://192.168.50.1:35455/huya/11601970
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小木子先生纪晓岚
-https://www.goodiptv.club/huya/11342396
+http://192.168.50.1:35455/huya/11342396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",萌新司机大秦
-https://www.goodiptv.club/huya/11352881
+http://192.168.50.1:35455/huya/11352881
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",粉娘神医
-https://www.goodiptv.club/huya/11601978
+http://192.168.50.1:35455/huya/11601978
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",沐小错传统与现代碰撞
-https://www.goodiptv.club/huya/11352956
+http://192.168.50.1:35455/huya/11352956
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",傻妞满院白眼狼
-https://www.goodiptv.club/huya/11342426
+http://192.168.50.1:35455/huya/11342426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",全优少年桃园结义
-https://www.goodiptv.club/huya/11602081
+http://192.168.50.1:35455/huya/11602081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",二次元控盗墓贼家女儿
-https://www.goodiptv.club/huya/11352912
+http://192.168.50.1:35455/huya/11352912
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鱼塘塘主新水浒
-https://www.goodiptv.club/huya/11342384
+http://192.168.50.1:35455/huya/11342384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",领带哥许三多
-https://www.goodiptv.club/huya/11342430
+http://192.168.50.1:35455/huya/11342430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",大侠阳光的快乐生活
-https://www.goodiptv.club/huya/11602085
+http://192.168.50.1:35455/huya/11602085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",地狱妖妖韩剧
-https://www.goodiptv.club/huya/11352869
+http://192.168.50.1:35455/huya/11352869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",7喜先生林正英
-https://www.goodiptv.club/huya/11342421
+http://192.168.50.1:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",赢城鬼片
-https://www.goodiptv.club/huya/23796393
+http://192.168.50.1:35455/huya/23796393
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",胖次过肩摔死神来了
-https://www.goodiptv.club/huya/11352903
+http://192.168.50.1:35455/huya/11352903
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",实力拔萝卜搞笑恐怖
-https://www.goodiptv.club/huya/11601960
+http://192.168.50.1:35455/huya/11601960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",笙歌经典港剧
-https://www.goodiptv.club/huya/11352965
+http://192.168.50.1:35455/huya/11352965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙八点档
-https://www.goodiptv.club/huya/880261
+http://192.168.50.1:35455/huya/880261
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",浮生没有若梦贺岁档
-https://www.goodiptv.club/huya/11601986
+http://192.168.50.1:35455/huya/11601986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",四大裁子之首王晶
-https://www.goodiptv.club/huya/11602058
+http://192.168.50.1:35455/huya/11602058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙影院沈腾
-https://www.goodiptv.club/huya/11601968
+http://192.168.50.1:35455/huya/11601968
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",科技这样玩许氏三杰
-https://www.goodiptv.club/huya/11602033
+http://192.168.50.1:35455/huya/11602033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",汽车人喜剧
-https://www.goodiptv.club/huya/11352897
+http://192.168.50.1:35455/huya/11352897
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",核桃姐姐李连杰
-https://www.goodiptv.club/huya/11342390
+http://192.168.50.1:35455/huya/11342390
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",偷心大盗成龙
-https://www.goodiptv.club/huya/11342386
+http://192.168.50.1:35455/huya/11342386
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",樹袋熊小九九五福星
-https://www.goodiptv.club/huya/11282233
+http://192.168.50.1:35455/huya/11282233
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",开船老湿基周润发
-https://www.goodiptv.club/huya/11342387
+http://192.168.50.1:35455/huya/11342387
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",蓶1淳爷山鸡哥
-https://www.goodiptv.club/huya/11336719
+http://192.168.50.1:35455/huya/11336719
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",槽老师女神系列
-https://www.goodiptv.club/huya/11336571
+http://192.168.50.1:35455/huya/11336571
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",可爱的小强金庸武侠
-https://www.goodiptv.club/huya/11342435
+http://192.168.50.1:35455/huya/11342435
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",逗比宝宝经典金庸群侠
-https://www.goodiptv.club/huya/11342427
+http://192.168.50.1:35455/huya/11342427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小军迷经典女神
-https://www.goodiptv.club/huya/11352909
+http://192.168.50.1:35455/huya/11352909
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小牡蛎高智商的罪犯
-https://www.goodiptv.club/huya/11352962
+http://192.168.50.1:35455/huya/11352962
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",学妹爱学长警匪
-https://www.goodiptv.club/huya/11352886
+http://192.168.50.1:35455/huya/11352886
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",铁血真汉子国产悬疑
-https://www.goodiptv.club/huya/11342395
+http://192.168.50.1:35455/huya/11342395
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/1905电影.png" group-title="老电影",小兵张嘎
 http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
