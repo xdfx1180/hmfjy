@@ -147,11 +147,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文
-https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB
+https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
-https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB
+https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
-https://0472.org/hls/youzaiSB/fhhk.m3u8?youzaiSB
+https://0472.org/hls/youzaiSB/fhhk.m3u8
 #EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="港台",三立新闻
 http://192.168.50.1:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立iNEWS
