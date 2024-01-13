@@ -488,7 +488,7 @@ Ayo夏哟哟,http://192.168.50.1:35455/huya/762576
 哔哩哔哩,#genre#
 哔哩哔哩足球赛事,http://192.168.50.1:35455/bilibili/22?quality=400
 米阿尧,http://192.168.50.1:35455/bilibili/275396?quality=10000
-
+倪师传承学习,http://192.168.50.1:35455/bilibili/31659042
 
 老电影,#genre#
 小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
