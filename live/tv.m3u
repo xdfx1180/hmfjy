@@ -626,6 +626,27 @@ http://192.168.50.1:35455/huya/11352886
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",铁血真汉子国产悬疑
 http://192.168.50.1:35455/huya/11342395
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",哔哩哔哩足球赛事
+http://192.168.50.1:35455/bilibili/22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",体育课代表WWE
+http://192.168.50.1:35455/bilibili/23755234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",米阿尧
+http://192.168.50.1:35455/bilibili/275396
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",倪师传承学习
+http://192.168.50.1:35455/bilibili/31659042
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",坚守传承倪师天纪
+http://192.168.50.1:35455/bilibili/31602168
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",Higkoo倪海厦人纪
+http://192.168.50.1:35455/bilibili/340960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",走进国学红楼梦解说
+http://192.168.50.1:35455/bilibili/27495123
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",元七侃书深挖西游原著
+http://192.168.50.1:35455/bilibili/24151243
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",萨洼地咔天道岁月
+http://192.168.50.1:35455/bilibili/30865138
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",TVB8剧集MTV音乐
+http://192.168.50.1:35455/bilibili/8130437
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/1905电影.png" group-title="老电影",小兵张嘎
 http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/1905电影.png" group-title="老电影",闪闪的红星
