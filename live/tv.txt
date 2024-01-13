@@ -485,6 +485,9 @@ Ayo夏哟哟,http://192.168.50.1:35455/huya/762576
 学妹爱学长警匪,http://192.168.50.1:35455/huya/11352886
 铁血真汉子国产悬疑,http://192.168.50.1:35455/huya/11342395
 
+哔哩哔哩,#genre#
+米阿尧,http://192.168.50.1:35455/bilibili/275396
+
 老电影,#genre#
 小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
 闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
