@@ -202,15 +202,17 @@ https://pull.live.xztv.tv/live/xztv03.flv
 #EXTINF:-1 tvg-id="徐州公共频道" tvg-name="徐州公共频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州公共频道
 https://pull.live.xztv.tv/live/xztv04.flv
 #EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃都市频道
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
+https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃经济频道
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 #EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃文化影视
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 #EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃少儿频道
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
+https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="甘肃公共" tvg-name="甘肃公共" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃公共应急
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 tvg-id="甘肃移动" tvg-name="甘肃移动" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃移动频道
+https://hls.gstv.com.cn/49048r/y72q36.m3u8
 #EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-id="兰州文旅" tvg-name="兰州文旅" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/兰州广电.png" group-title="地方",兰州文旅频道
