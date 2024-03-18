@@ -206,11 +206,11 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州新闻综合
 https://pull.nicewifi.cn/live/xztv01.flv
 #EXTINF:-1 tvg-id="徐州经济生活" tvg-name="徐州经济生活" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州经济生活
-https://pull.live.xztv.tv/live/xztv02.flv
+https://pull.nicewifi.cn/live/xztv02.flv
 #EXTINF:-1 tvg-id="徐州文艺影视" tvg-name="徐州文艺影视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州文艺影视
-https://pull.live.xztv.tv/live/xztv03.flv
+https://pull.nicewifi.cn/live/xztv03.flv
 #EXTINF:-1 tvg-id="徐州公共频道" tvg-name="徐州公共频道" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州公共频道
-https://pull.live.xztv.tv/live/xztv04.flv
+https://pull.nicewifi.cn/live/xztv04.flv
 #EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃都市频道
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃经济频道
