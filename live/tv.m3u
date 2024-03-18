@@ -191,7 +191,7 @@ http://192.168.50.1:35455/youtube/JCIVsura-0A
 #EXTINF:-1 tvg-id="生命" tvg-name="生命" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台",生命电视台
 https://epg.pw/stream/e13c9b96d252b657b1b07bdff69614aa4d4992bf058df1f8a9140e61238319d1.m3u8
 
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方",上海五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/五星体育.png" group-title="地方",五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/广东体育.jpg" group-title="地方",广东体育
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
