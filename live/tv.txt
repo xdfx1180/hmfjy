@@ -172,6 +172,8 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 镜新闻,http://192.168.50.1:35455/youtube/5n0y6b0Q25o
 中天新闻,http://192.168.50.1:35455/youtube/oIgbl7t0S_w
 新唐人亚太台,http://192.168.50.1:35455/youtube/WIhgU_mc05A
+翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
+澳视澳门,http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 凤凰中文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -180,6 +182,8 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 地方,#genre#
 上海五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+广东体育,http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
+新视觉,http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 上海纪实人文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 北京纪实科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
