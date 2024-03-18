@@ -180,8 +180,8 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 
 地方,#genre#
-上海五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 广东体育,http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 新视觉,http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 上海纪实人文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
