@@ -1,23 +1,23 @@
 央视频道,#genre#
-CCTV-1 综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
-CCTV-2 财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
-CCTV-3 综艺,https://itv.lat/tv/live.php?&line=1&id=cctv3
-CCTV-4 中文国际,https://itv.lat/tv/live.php?&line=1&id=cctv4
-CCTV-5 体育,https://itv.lat/tv/live.php?&line=1&id=cctv5
-CCTV-5+ 体育赛事,https://itv.lat/tv/live.php?&line=1&id=cctv5p
-CCTV-6 电影,https://itv.lat/tv/live.php?&line=1&id=cctv6
-CCTV-7 国防军事,https://itv.lat/tv/live.php?&line=1&id=cctv7
-CCTV-8 电视剧,https://itv.lat/tv/live.php?&line=1&id=cctv8
-CCTV-9 纪录,https://itv.lat/tv/live.php?&line=1&id=cctv9
-CCTV-10 科教,https://itv.lat/tv/live.php?&line=1&id=cctv10
-CCTV-11 戏曲,https://itv.lat/tv/live.php?&line=1&id=cctv11
-CCTV-12 社会与法,https://itv.lat/tv/live.php?&line=1&id=cctv12
-CCTV-13 新闻,https://itv.lat/tv/live.php?&line=1&id=cctv13
-CCTV-14 少儿,https://itv.lat/tv/live.php?&line=1&id=cctv14
-CCTV-15 音乐,https://itv.lat/tv/live.php?&line=1&id=cctv15
-CCTV-16 奥林匹克,https://itv.lat/tv/live.php?&line=1&id=cctv16
+CCTV-1 综合,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
+CCTV-2 财经,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS
+CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
+CCTV-5 体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+CCTV-6 电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS
+CCTV-8 电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS
+CCTV-10 科教,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
+CCTV-11 戏曲,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?IAS
+CCTV-12 社会与法,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS
+CCTV-13 新闻,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
+CCTV-14 少儿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS
+CCTV-15 音乐,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
-CCTV-17 农业农村,https://itv.lat/tv/live.php?&line=1&id=cctv17
+CCTV-17 农业农村,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
 CCTV-4K 超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CHC 动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
@@ -50,39 +50,39 @@ CCTV 女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 
 卫视频道,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
-东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
-湖南卫视,https://itv.lat/tv/live.php?&line=1&id=hunws
-江苏卫视,https://itv.lat/tv/live.php?&line=1&id=jsws
-浙江卫视,https://itv.lat/tv/live.php?&line=1&id=zjws
-辽宁卫视,https://itv.lat/tv/live.php?&line=1&id=lnws
-安徽卫视,https://itv.lat/tv/live.php?&line=1&id=ahws
-天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
-深圳卫视,https://itv.lat/tv/live.php?&line=1&id=szws
-江西卫视,https://itv.lat/tv/live.php?&line=1&id=jxws
-东南卫视,https://itv.lat/tv/live.php?&line=1&id=dnws
-广东卫视,https://itv.lat/tv/live.php?&line=1&id=gdws
+北京卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?IAS
+东方卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
+湖南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000174/index.m3u8?IAS
+江苏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000177/index.m3u8?IAS
+浙江卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000248/index.m3u8?IAS
+辽宁卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000307/index.m3u8?IAS
+安徽卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS
+天津卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS
+深圳卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000352/index.m3u8?IAS
+江西卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS
+东南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
+广东卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS
 广西卫视,https://itv.lat/tv/live.php?&line=1&id=gxws
-河北卫视,https://itv.lat/tv/live.php?&line=1&id=hbws
-河南卫视,https://itv.lat/tv/live.php?&line=1&id=hnws
-山东卫视,https://itv.lat/tv/live.php?&line=1&id=sdws
-山西卫视,https://itv.lat/tv/live.php?&line=1&id=sxiws
-湖北卫视,https://itv.lat/tv/live.php?&line=1&id=hubws
-黑龙江卫视,https://itv.lat/tv/live.php?&line=1&id=hljws
-吉林卫视,https://itv.lat/tv/live.php?&line=1&id=jlws
-海南卫视,https://itv.lat/tv/live.php?&line=1&id=hinws
-厦门卫视,https://itv.lat/tv/live.php?&line=1&id=xmws
-内蒙古卫视,https://itv.lat/tv/live.php?&line=1&id=nmws
-重庆卫视,https://itv.lat/tv/live.php?&line=1&id=cqws
-四川卫视,https://itv.lat/tv/live.php?&line=1&id=scws
-云南卫视,https://itv.lat/tv/live.php?&line=1&id=ynws
-贵州卫视,https://itv.lat/tv/live.php?&line=1&id=gzws
-陕西卫视,https://itv.lat/tv/live.php?&line=1&id=sxws
+河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
+河南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000310/index.m3u8?IAS
+山东卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
+山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
+湖北卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?IAS
+黑龙江卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?IAS
+吉林卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
+海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
+重庆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000332/index.m3u8?IAS
+四川卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000330/index.m3u8?IAS
+云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
+贵州卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
+陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 甘肃卫视,https://itv.lat/tv/live.php?&line=1&id=gsws
-宁夏卫视,https://itv.lat/tv/live.php?&line=1&id=nxws
-青海卫视,https://itv.lat/tv/live.php?&line=1&id=qhws
-新疆卫视,https://itv.lat/tv/live.php?&line=1&id=xjws
-西藏卫视,https://itv.lat/tv/live.php?&line=1&id=xzws
+宁夏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
+青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?IAS
+新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
+西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 
 港台,#genre#
 华藏卫视,http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
@@ -303,6 +303,9 @@ Higkoo倪海厦人纪,http://192.168.50.1:35455/bilibili/340960
 元七侃书深挖西游原著,http://192.168.50.1:35455/bilibili/24151243
 萨洼地咔天道岁月,http://192.168.50.1:35455/bilibili/30865138
 TVB8剧集MTV音乐,http://192.168.50.1:35455/bilibili/8130437
+
+抖音,#genre#
+新爱体育,http://192.168.50.1:35455/douyin/179260431297
 
 历年春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
