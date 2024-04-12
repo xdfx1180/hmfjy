@@ -104,7 +104,7 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 地方,#genre#
-五星体育,https://itv.lat/tv/live.php?&line=1&id=wxty
+五星体育,http://222.71.11.180:4022/rtp/239.45.3.210:5140
 广东体育,https://iptv.hiper25.com/gdty/video.m3u8
 新视觉,https://itv.lat/tv/live.php?&line=1&id=xsj
 上海纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
