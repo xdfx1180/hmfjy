@@ -23,21 +23,21 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 CHC 动作电影,https://tv.iill.top/migu/dzdy
 CHC 家庭影院,https://tv.iill.top/migu/jtyy
 CHC 高清电影,http://148.135.93.213:81/live.php?id=CHC高清电影
-CCTV 风云音乐,https://pi.0472.org/live/fyyy.m3u8?token=240411
-CCTV 风云足球,https://pi.0472.org/live/fyzq.m3u8?token=240411
-CCTV 风云剧场,https://pi.0472.org/live/fyjc.m3u8?token=240411
-CCTV 第一剧场,https://pi.0472.org/live/dyjc.m3u8?token=240411
-CCTV 怀旧剧场,https://pi.0472.org/live/hjjc.m3u8?token=240411
-CCTV 文化精品,https://pi.0472.org/live/whjp.m3u8?token=240411
-CCTV 央视台球,https://pi.0472.org/live/ystq.m3u8?token=240411
-CCTV 央视高网,https://pi.0472.org/live/gefwq.m3u8?token=240411
-CCTV卫生健康,https://pi.0472.org/live/wsjk.m3u8?token=240411
-CCTV 世界地理,https://pi.0472.org/live/sjdl.m3u8?token=240411
-CCTV 兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=240411
-CCTV 女性时尚,https://pi.0472.org/live/nxss.m3u8?token=240411
+CCTV 风云音乐,http://148.135.93.213:81/live.php?id=风云音乐
+CCTV 风云足球,http://148.135.93.213:81/live.php?id=风云足球
+CCTV 风云剧场,http://148.135.93.213:81/live.php?id=风云剧场
+CCTV 第一剧场,http://148.135.93.213:81/live.php?id=第一剧场
+CCTV 怀旧剧场,http://148.135.93.213:81/live.php?id=怀旧剧场
+CCTV 文化精品,http://148.135.93.213:81/live.php?id=文化精品
+CCTV 央视台球,http://148.135.93.213:81/live.php?id=央视台球
+CCTV 央视高网,http://148.135.93.213:81/live.php?id=央视高网
+CCTV 卫生健康,http://148.135.93.213:81/live.php?id=卫生健康
+CCTV 世界地理,http://148.135.93.213:81/live.php?id=世界地理
+CCTV 兵器科技,http://148.135.93.213:81/live.php?id=兵器科技
+CCTV 女性时尚,http://148.135.93.213:81/live.php?id=女性时尚
 
 卫视频道,#genre#
-重温经典,http://ipys.2288.org:8889/udp/228.1.1.44:6044
+重温经典,http://148.135.93.213:81/live.php?id=重温经典
 北京卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?IAS
 东方卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 湖南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000174/index.m3u8?IAS
@@ -104,7 +104,7 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 
 地方,#genre#
-五星体育,http://222.71.11.180:4022/rtp/239.45.3.210:5140
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 广东体育,https://iptv.hiper25.com/gdty/video.m3u8
 新视觉,https://itv.lat/tv/live.php?&line=1&id=xsj
 上海纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
