@@ -23,18 +23,18 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 CHC 动作电影,https://tv.iill.top/migu/dzdy
 CHC 家庭影院,https://tv.iill.top/migu/jtyy
 CHC 高清电影,http://148.135.93.213:81/live.php?id=CHC高清电影
-CCTV 风云音乐,http://148.135.93.213:81/live.php?id=风云音乐
-CCTV 风云足球,http://148.135.93.213:81/live.php?id=风云足球
-CCTV 风云剧场,http://148.135.93.213:81/live.php?id=风云剧场
-CCTV 第一剧场,http://148.135.93.213:81/live.php?id=第一剧场
-CCTV 怀旧剧场,http://148.135.93.213:81/live.php?id=怀旧剧场
-CCTV 文化精品,http://148.135.93.213:81/live.php?id=文化精品
-CCTV 央视台球,http://148.135.93.213:81/live.php?id=央视台球
-CCTV 央视高网,http://148.135.93.213:81/live.php?id=央视高网
-CCTV 卫生健康,http://148.135.93.213:81/live.php?id=卫生健康
-CCTV 世界地理,http://148.135.93.213:81/live.php?id=世界地理
-CCTV 兵器科技,http://148.135.93.213:81/live.php?id=兵器科技
-CCTV 女性时尚,http://148.135.93.213:81/live.php?id=女性时尚
+CCTV 风云音乐,https://pi.0472.org/live/fyyy.m3u8?token=241703
+CCTV 风云足球,https://pi.0472.org/live/fyzq.m3u8?token=241703
+CCTV 风云剧场,https://pi.0472.org/live/fyjc.m3u8?token=241703
+CCTV 第一剧场,https://pi.0472.org/live/dyjc.m3u8?token=241703
+CCTV 怀旧剧场,https://pi.0472.org/live/hjjc.m3u8?token=241703
+CCTV 文化精品,https://pi.0472.org/live/whjp.m3u8?token=241703
+CCTV 央视台球,https://pi.0472.org/live/ystq.m3u8?token=241703
+CCTV 央视高网,https://pi.0472.org/live/gefwq.m3u8?token=241703
+CCTV 卫生健康,https://pi.0472.org/live/wsjk.m3u8?token=241703
+CCTV 世界地理,https://pi.0472.org/live/sjdl.m3u8?token=241703
+CCTV 兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=241703
+CCTV 女性时尚,https://pi.0472.org/live/nxss.m3u8?token=241703
 
 卫视频道,#genre#
 重温经典,http://148.135.93.213:81/live.php?id=重温经典
@@ -172,10 +172,10 @@ TVBS,http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 求索,#genre#
-求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 
 斗鱼,#genre#
 贝拉,http://192.168.50.1:35455/douyu/3276456
