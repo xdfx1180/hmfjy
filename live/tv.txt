@@ -293,6 +293,7 @@ TVB8剧集MTV音乐,http://192.168.50.1:35455/bilibili/8130437
 
 抖音,#genre#
 新爱体育,http://192.168.50.1:35455/douyin/179260431297
+直播吧,http://192.168.50.1:35455/douyin/957102497302
 
 历年春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
