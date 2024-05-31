@@ -358,6 +358,10 @@ http://192.168.50.1:35455/douyu/4290711
 http://192.168.50.1:35455/douyu/5522351
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",橙沫小幺妹大秦
 http://192.168.50.1:35455/douyu/1584198
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",大片片说小片庆余年
+http://192.168.50.1:35455/douyu/7489563
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",淡薄眉隋唐英雄传
+http://192.168.50.1:35455/douyu/11958092
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",糖醋小排咕刘罗锅
 http://192.168.50.1:35455/douyu/11861663
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",大麦青汁纪晓岚
@@ -461,6 +465,8 @@ http://192.168.50.1:35455/huya/23865161
 http://192.168.50.1:35455/huya/11602082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鸽宝小改改征服
 http://192.168.50.1:35455/huya/11601970
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",瞬间爆炸庆余年
+http://192.168.50.1:35455/huya/11352960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小木子先生纪晓岚
 http://192.168.50.1:35455/huya/11342396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",萌新司机大秦
