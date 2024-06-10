@@ -372,8 +372,8 @@ http://192.168.50.1:35455/douyu/11651155
 http://192.168.50.1:35455/douyu/922564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",都是奔奔的错六小龄童
 http://192.168.50.1:35455/douyu/8953746
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",孤心凉狄仁杰
-http://192.168.50.1:35455/douyu/11685263
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当幽兰剑遇上狄仁杰
+http://192.168.50.1:35455/douyu/6027991
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",蓝翔老三国
 http://192.168.50.1:35455/douyu/7459925
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",小黛兮新三国
@@ -493,6 +493,8 @@ http://192.168.50.1:35455/huya/11342430
 http://192.168.50.1:35455/huya/11602085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",懒猪漫长的季节
 http://192.168.50.1:35455/huya/11342393
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",元芳--狄仁杰
+http://192.168.50.1:35455/huya/29414788
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",7喜先生林正英
 http://192.168.50.1:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",赢城鬼片
