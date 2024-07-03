@@ -166,8 +166,6 @@ http://192.168.50.1:35455/youtube/WHEPzbFA3hw
 http://192.168.50.1:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS新闻
 http://192.168.50.1:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS
-http://192.168.50.1:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台",寰宇新闻
 http://192.168.50.1:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="港台",寰宇新闻台湾台
