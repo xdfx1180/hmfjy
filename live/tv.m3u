@@ -658,19 +658,21 @@ https://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="地方电台",上海动感101
 http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方电台",徐州新闻广播FM93
-https://pull.live.xztv.tv/live/1630867595459514368.flv
+https://live.ximalaya.com/radio-first-page-app/live/602/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方电台",徐州交通广播FM103.3
-https://pull.live.xztv.tv/live/1630867762166321152.flv
+https://live.ximalaya.com/radio-first-page-app/live/603/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方电台",徐州音乐广播FM91.9
-https://pull.live.xztv.tv/live/1630867907255685120.flv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方电台",徐州幸福广播FM105
-https://pull.live.xztv.tv/live/1630868067931082752.flv
+https://live.ximalaya.com/radio-first-page-app/live/2743/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/广播/徐州广播.png" group-title="地方电台",徐州铜山经典942
+https://live.ximalaya.com/radio-first-page-app/live/2860/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方电台",甘肃都市调频
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方电台",甘肃交通广播
 http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方电台",甘肃新闻综合
 http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方电台",甘肃青春调频
+https://live.ximalaya.com/radio-first-page-app/live/290/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方电台",甘肃经济广播
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 
