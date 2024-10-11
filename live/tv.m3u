@@ -390,8 +390,8 @@ http://192.168.50.1:35455/huya/11342430
 http://192.168.50.1:35455/huya/11602085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",懒猪漫长的季节
 http://192.168.50.1:35455/huya/11342393
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",SJ-辛稼轩狄仁杰
-http://192.168.50.1:35455/huya/29528581
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",心疼得抱住胖胖狄仁杰
+http://192.168.50.1:35455/huya/11342425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",大道遺所思白娘子
 http://192.168.50.1:35455/huya/26355768
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",Wang-我的女人康熙王朝
@@ -568,7 +568,7 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 #EXTINF:-1,tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2023
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1,tvg-id="春晚2024" tvg-name="春晚2024" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2024
-https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/1905电影.png" group-title="老电影",小兵张嘎
 http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
