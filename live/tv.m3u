@@ -249,6 +249,12 @@ http://192.168.50.1:35455/douyu/9236042
 http://192.168.50.1:35455/douyu/9220456
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",刘少RM
 http://192.168.50.1:35455/douyu/131977
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",演唱会颜老师
+http://192.168.50.1:35455/douyu/11880223
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",我也想要一个千反田美食
+http://192.168.50.1:35455/douyu/9290734
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",黄粱一梦l蓦然回首美食
+http://192.168.50.1:35455/douyu/9650849
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",世界未解之谜
 http://192.168.50.1:35455/douyu/9369468
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",进击D神乐周星驰
@@ -261,6 +267,8 @@ http://192.168.50.1:35455/douyu/4290711
 http://192.168.50.1:35455/douyu/5522351
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",牛奶味的梦猪猪经典港剧
 http://192.168.50.1:35455/douyu/5261342
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",飘洋过海来经典港剧
+http://192.168.50.1:35455/douyu/9548850
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",橙沫小幺妹大秦
 http://192.168.50.1:35455/douyu/1584198
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",大片片说小片庆余年
@@ -269,10 +277,8 @@ http://192.168.50.1:35455/douyu/7489563
 http://192.168.50.1:35455/douyu/3756989
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",不打电竞手机
 http://192.168.50.1:35455/douyu/8507023
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",我也想要一个千反田美食
-http://192.168.50.1:35455/douyu/9290734
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",黄粱一梦l蓦然回首美食
-http://192.168.50.1:35455/douyu/9650849
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",是晓葑呀古董
+http://192.168.50.1:35455/douyu/9650783
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",卖女孩滴小姑凉悍匪
 http://192.168.50.1:35455/douyu/922564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",都是奔奔的错六小龄童
@@ -322,8 +328,6 @@ http://192.168.50.1:35455/douyu/4246519
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",春卷大师豆瓣高分
 http://192.168.50.1:35455/douyu/52787
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",王天一
-http://192.168.50.1:35455/huya/822251
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",WWE老李头
 http://192.168.50.1:35455/huya/16619834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",胖猴仔
@@ -332,16 +336,16 @@ http://192.168.50.1:35455/huya/24057412
 http://192.168.50.1:35455/huya/11352955
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",摄氏零度品三国
 http://192.168.50.1:35455/huya/11602032
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",红茶妹妹悍刀行
-http://192.168.50.1:35455/huya/11336592
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周星星
-http://192.168.50.1:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",陈翔六点半
 http://192.168.50.1:35455/huya/11274154
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",来瓶肥宅水吐槽大会
 http://192.168.50.1:35455/huya/21059555
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我爱黑科技春晚小品
+http://192.168.50.1:35455/huya/11602068
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",千里陈佩斯
 http://192.168.50.1:35455/huya/20985776
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周星星
+http://192.168.50.1:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",埋堆堆官方
 http://192.168.50.1:35455/huya/23740156
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",香港刑侦实录笑看风云
@@ -364,6 +368,8 @@ http://192.168.50.1:35455/huya/11602082
 http://192.168.50.1:35455/huya/11601970
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",瞬间爆炸庆余年
 http://192.168.50.1:35455/huya/11352960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",红茶妹妹悍刀行
+http://192.168.50.1:35455/huya/11336592
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小木子先生纪晓岚
 http://192.168.50.1:35455/huya/11342396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",萌新司机大秦
@@ -398,6 +404,8 @@ http://192.168.50.1:35455/huya/26355768
 http://192.168.50.1:35455/huya/11352940
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",袖中忽见李卫当官
 http://192.168.50.1:35455/huya/26355788
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",春水盈盈细浪翻乡村爱情
+http://192.168.50.1:35455/huya/30080255
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",7喜先生林正英
 http://192.168.50.1:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",赢城鬼片
