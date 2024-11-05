@@ -153,11 +153,11 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="港台",三立新闻
-http://192.168.50.1:35455/youtube/FoBfXvlOR6I
+http://192.168.50.1:35455/youtube/hGJkDZDchYI
 #EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立iNEWS
 http://192.168.50.1:35455/youtube/pF507BLtbqU
-#EXTINF:-1 tvg-id="三立iNEWS+" tvg-name="三立iNEWS+" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立iNEWS+
-http://192.168.50.1:35455/youtube/oZdzzvxTfUY
+#EXTINF:-1 tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="港台",三立LIVE
+http://192.168.50.1:35455/youtube/MV9mI0GChwo
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="港台",民视新闻
 http://192.168.50.1:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="港台",台视新闻
@@ -170,6 +170,8 @@ http://192.168.50.1:35455/youtube/quwqlazU-c8
 http://192.168.50.1:35455/youtube/E0zhe2gkXBs
 #EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台",东森财经新闻
 http://192.168.50.1:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1 tvg-id="57怪奇物语" tvg-name="57怪奇物语" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="港台",57怪奇物语
+http://192.168.50.1:35455/youtube/0CfImCAFIPo
 #EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS NEWS
 http://192.168.50.1:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="港台",TVBS新闻
@@ -181,15 +183,15 @@ http://192.168.50.1:35455/youtube/w87VGpgd90U
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/镜新闻.png" group-title="港台",镜新闻
 http://192.168.50.1:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="港台",中天新闻
-http://192.168.50.1:35455/youtube/oIgbl7t0S_w
+http://192.168.50.1:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-id="新唐人亚太台" tvg-name="新唐人亚太台" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="港台",新唐人亚太台
 http://192.168.50.1:35455/youtube/WIhgU_mc05A
+#EXTINF:-1 tvg-id="8视界" tvg-name="8视界" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/8视界.jpg" group-title="港台",8视界
+http://192.168.50.1:35455/youtube/RvSOIM620bA
 #EXTINF:-1 tvg-id="华藏卫视" tvg-name="华藏卫视" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台",华藏卫视
 http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
-#EXTINF:-1 tvg-id="淨空法師" tvg-name="佛陀教育" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台",淨空法師
+#EXTINF:-1 tvg-id="淨空法師" tvg-name="淨空法師" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="港台",淨空法師
 http://192.168.50.1:35455/youtube/JCIVsura-0A
-#EXTINF:-1 tvg-id="生命" tvg-name="生命" tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/生命电视台.png" group-title="港台",生命电视台
-https://epg.pw/stream/e13c9b96d252b657b1b07bdff69614aa4d4992bf058df1f8a9140e61238319d1.m3u8
 
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方",上海纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -449,43 +451,23 @@ http://192.168.50.1:35455/huya/11342395
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",哔哩哔哩足球赛事
 http://192.168.50.1:35455/bilibili/22
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",体育课代表WWE
-http://192.168.50.1:35455/bilibili/23755234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",百家讲史
-http://192.168.50.1:35455/bilibili/13698484
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",中媒汇铁齿铜牙纪晓岚
-http://192.168.50.1:35455/bilibili/23333830
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",米阿尧
-http://192.168.50.1:35455/bilibili/275396
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",磊哥剪电影还珠格格
+http://192.168.50.1:35455/bilibili/25082603
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",西瓜放映厅武林外传
+http://192.168.50.1:35455/bilibili/27554961
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",周小树爱屌丝男士
+http://192.168.50.1:35455/bilibili/30882535
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",UP主硬照鬼才国学经典
 http://192.168.50.1:35455/bilibili/21676478
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",倪师传承学习
-http://192.168.50.1:35455/bilibili/31659042
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",坚守传承倪师天纪
-http://192.168.50.1:35455/bilibili/31602168
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",Higkoo倪海厦人纪
-http://192.168.50.1:35455/bilibili/340960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",走进国学红楼梦解说
 http://192.168.50.1:35455/bilibili/27495123
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",元七侃书深挖西游原著
 http://192.168.50.1:35455/bilibili/24151243
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",萨洼地咔天道岁月
-http://192.168.50.1:35455/bilibili/30865138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",TVB8剧集MTV音乐
-http://192.168.50.1:35455/bilibili/8130437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",新爱体育
 http://192.168.50.1:35455/douyin/179260431297
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",抖音奥运
-http://192.168.50.1:35455/douyin/739453887773
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",直播吧
 http://192.168.50.1:35455/douyin/957102497302
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",球王记忆
-http://192.168.50.1:35455/douyin/628363768726
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",全景体育
-http://192.168.50.1:35455/douyin/15699923448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",BRTV笑动剧场
-http://192.168.50.1:35455/douyin/742921757548
 
 #EXTINF:-1,tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
