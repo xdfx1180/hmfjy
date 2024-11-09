@@ -68,6 +68,8 @@ http://192.168.50.1:35455/douyu/9650849
 http://192.168.50.1:35455/douyu/9369468
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",进击D神乐周星驰
 http://192.168.50.1:35455/douyu/122402
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",进击的神乐华语电影
+http://192.168.50.1:35455/douyu/85894
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",橙記港剧
 http://192.168.50.1:35455/douyu/4549169
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",疯狂尛瀦瀦经典港剧1
@@ -100,16 +102,12 @@ http://192.168.50.1:35455/douyu/8953746
 http://192.168.50.1:35455/douyu/7459925
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",蓝翔新三国
 http://192.168.50.1:35455/douyu/5908256
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",诃德先生新水浒
-http://192.168.50.1:35455/douyu/3758762
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",孤独的牧羊仁怀旧剧
-http://192.168.50.1:35455/douyu/6861249
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",御宅隐新水浒
+http://192.168.50.1:35455/douyu/8997387
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",性感冰激凌剧经典
 http://192.168.50.1:35455/douyu/7119207
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",傲娇的虾虾武侠古装
 http://192.168.50.1:35455/douyu/338759
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",米尼经典情景剧
-http://192.168.50.1:35455/douyu/7642724
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",JhZj经典神剧
 http://192.168.50.1:35455/douyu/1006179
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",久了旧知恐怖电影
@@ -193,14 +191,16 @@ http://192.168.50.1:35455/huya/21059594
 http://192.168.50.1:35455/huya/26355864
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",全优少年桃园结义
 http://192.168.50.1:35455/huya/11602081
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",二次元控盗墓贼家女儿
-http://192.168.50.1:35455/huya/11352912
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鱼塘塘主新水浒
 http://192.168.50.1:35455/huya/11342384
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",山东北路水浒
+http://192.168.50.1:35455/huya/26355860
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",领带哥许三多
 http://192.168.50.1:35455/huya/11342430
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",大侠阳光的快乐生活
-http://192.168.50.1:35455/huya/11602085
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",二次元控盗墓贼家女儿
+http://192.168.50.1:35455/huya/11352912
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",宇宙摸魚人唐朝诡事录
+http://192.168.50.1:35455/huya/26355763
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",懒猪漫长的季节
 http://192.168.50.1:35455/huya/11342393
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",心疼得抱住胖胖狄仁杰
