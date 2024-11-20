@@ -86,8 +86,6 @@ http://192.168.50.1:35455/douyu/12170696
 http://192.168.50.1:35455/douyu/11774356
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",安慕兮庆余年
 http://192.168.50.1:35455/douyu/5062195
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",大麦青汁纪晓岚
-http://192.168.50.1:35455/douyu/9071554
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",ry和radian欢乐颂
 http://192.168.50.1:35455/douyu/3756989
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",不打电竞手机
@@ -128,6 +126,8 @@ http://192.168.50.1:35455/douyu/12068394
 http://192.168.50.1:35455/douyu/431460
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",蓝翔华语电影
 http://192.168.50.1:35455/douyu/276200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",bbox达人喜剧电影
+http://192.168.50.1:35455/douyu/428402
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",吃米滴虫港片
 http://192.168.50.1:35455/douyu/315457
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",萌小鬼华语经典
@@ -199,6 +199,8 @@ http://192.168.50.1:35455/huya/11602081
 http://192.168.50.1:35455/huya/11342384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",山东北路水浒
 http://192.168.50.1:35455/huya/26355860
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我是翩翩红楼梦
+http://192.168.50.1:35455/huya/30080221
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",领带哥许三多
 http://192.168.50.1:35455/huya/11342430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",二次元控盗墓贼家女儿
