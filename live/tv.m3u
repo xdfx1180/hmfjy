@@ -23,6 +23,8 @@ http://192.168.50.1:35455/youtube/0CfImCAFIPo
 http://192.168.50.1:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS新闻
 http://192.168.50.1:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS56頻道新闻
+http://192.168.50.1:35455/youtube/o_-hSMgpAzs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻
 http://192.168.50.1:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻台湾台
