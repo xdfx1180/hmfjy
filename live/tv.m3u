@@ -124,10 +124,16 @@ http://192.168.50.1:35455/douyu/96577
 http://192.168.50.1:35455/douyu/263824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",小童节恐怖片
 http://192.168.50.1:35455/douyu/12068394
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",狂仔酷炫欧美经典
+http://192.168.50.1:35455/douyu/252802
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",狂拽酷炫科幻动作
+http://192.168.50.1:35455/douyu/4332
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝贝电影
 http://192.168.50.1:35455/douyu/431460
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",蓝翔华语电影
 http://192.168.50.1:35455/douyu/276200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",伊太刀刀蓝光电影
+http://192.168.50.1:35455/douyu/747764
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",bbox达人喜剧电影
 http://192.168.50.1:35455/douyu/428402
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",吃米滴虫港片
