@@ -276,43 +276,6 @@ http://192.168.50.1:35455/huya/11352886
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",铁血真汉子国产悬疑
 http://192.168.50.1:35455/huya/11342395
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",漫长的季节
-http://192.168.50.1:35455/tptv/manchangdjj.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",繁花
-http://192.168.50.1:35455/tptv/fanhua.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",庆余年
-http://192.168.50.1:35455/tptv/zhifouzf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",黑土无言
-http://192.168.50.1:35455/tptv/COSHD-4000k-1080P-htwy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",父辈的荣耀
-http://192.168.50.1:35455/tptv/COSHD-4000k-1080P-fbdry.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",对手
-http://192.168.50.1:35455/tptv/GITV-JS-1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",新白娘子传奇
-http://192.168.50.1:35455/tptv/GITV-JS-7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",熊出没
-http://192.168.50.1:35455/tptv/GITV-JS-10.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",乡村爱情
-http://192.168.50.1:35455/tptv/GITV-JS-24.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",南来北往
-http://192.168.50.1:35455/tptv/GITV-JS-39.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",人世间
-http://192.168.50.1:35455/tptv/GITV-JS-42.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",狂飙
-http://192.168.50.1:35455/tptv/GITV-JS-41.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",大江大河
-http://192.168.50.1:35455/tptv/GITV-JS-43.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",山海情
-http://192.168.50.1:35455/tptv/GITV-JS-44.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",来自星星的你
-http://192.168.50.1:35455/tptv/GITV-JS-47.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",太阳的后裔
-http://192.168.50.1:35455/tptv/GITV-JS-49.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",请回答1988
-http://192.168.50.1:35455/tptv/GITV-JS-50.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/重温经典.png" group-title="影视剧",哦我的鬼神大人
-http://192.168.50.1:35455/tptv/GITV-JS-48.m3u8
-
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
 http://192.168.50.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-2
