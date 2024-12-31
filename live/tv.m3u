@@ -41,6 +41,8 @@ http://192.168.50.1:35455/youtube/RvSOIM620bA
 http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",淨空法師
 http://192.168.50.1:35455/youtube/JCIVsura-0A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/油管.jpg" group-title="油管",憨豆先生
+http://192.168.50.1:35455/youtube/80MaYh4ksQk
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝拉
 http://192.168.50.1:35455/douyu/3276456
