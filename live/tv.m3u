@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立新闻
-http://192.168.50.1:35455/youtube/hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="油管",三立iNEWS
-http://192.168.50.1:35455/youtube/pF507BLtbqU
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立LIVE
-http://192.168.50.1:35455/youtube/MV9mI0GChwo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="油管",民视新闻
-http://192.168.50.1:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="油管",台视新闻
-http://192.168.50.1:35455/youtube/xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="油管",中视新闻
-http://192.168.50.1:35455/youtube/TCnaIE_SAtM
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/公视新闻.png" group-title="油管",公视新闻
-http://192.168.50.1:35455/youtube/quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",东森新闻
-http://192.168.50.1:35455/youtube/E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",东森财经新闻
-http://192.168.50.1:35455/youtube/WHEPzbFA3hw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",57怪奇物语
-http://192.168.50.1:35455/youtube/0CfImCAFIPo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS NEWS
-http://192.168.50.1:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS新闻
-http://192.168.50.1:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS56頻道新闻
-http://192.168.50.1:35455/youtube/o_-hSMgpAzs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻
-http://192.168.50.1:35455/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻台湾台
-http://192.168.50.1:35455/youtube/w87VGpgd90U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/镜新闻.png" group-title="油管",镜新闻
-http://192.168.50.1:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="油管",中天新闻
-http://192.168.50.1:35455/youtube/vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="油管",新唐人亚太台
-http://192.168.50.1:35455/youtube/WIhgU_mc05A
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/8视界.jpg" group-title="油管",8视界
-http://192.168.50.1:35455/youtube/RvSOIM620bA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",华藏卫视
-http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",淨空法師
-http://192.168.50.1:35455/youtube/JCIVsura-0A
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/油管.jpg" group-title="油管",憨豆先生
-http://192.168.50.1:35455/youtube/80MaYh4ksQk
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝拉
 http://192.168.50.1:35455/douyu/3276456
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",八卦象棋大师
@@ -273,6 +228,49 @@ http://192.168.50.1:35455/huya/11352962
 http://192.168.50.1:35455/huya/11352886
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",铁血真汉子国产悬疑
 http://192.168.50.1:35455/huya/11342395
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立新闻
+http://192.168.50.1:35455/youtube/hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="油管",三立iNEWS
+http://192.168.50.1:35455/youtube/pF507BLtbqU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立LIVE
+http://192.168.50.1:35455/youtube/MV9mI0GChwo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="油管",民视新闻
+http://192.168.50.1:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="油管",台视新闻
+http://192.168.50.1:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="油管",中视新闻
+http://192.168.50.1:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/公视新闻.png" group-title="油管",公视新闻
+http://192.168.50.1:35455/youtube/quwqlazU-c8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",东森新闻
+http://192.168.50.1:35455/youtube/E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",57怪奇物语
+http://192.168.50.1:35455/youtube/0CfImCAFIPo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS NEWS
+http://192.168.50.1:35455/youtube/m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS新闻
+http://192.168.50.1:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS56頻道新闻
+http://192.168.50.1:35455/youtube/o_-hSMgpAzs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻
+http://192.168.50.1:35455/youtube/6IquAgfvYmc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/寰宇新闻.png" group-title="油管",寰宇新闻台湾台
+http://192.168.50.1:35455/youtube/w87VGpgd90U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/镜新闻.png" group-title="油管",镜新闻
+http://192.168.50.1:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="油管",中天新闻
+http://192.168.50.1:35455/youtube/vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="油管",新唐人亚太台
+http://192.168.50.1:35455/youtube/WIhgU_mc05A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/8视界.jpg" group-title="油管",8视界
+http://192.168.50.1:35455/youtube/RvSOIM620bA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",华藏卫视
+http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",淨空法師
+http://192.168.50.1:35455/youtube/JCIVsura-0A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/油管.jpg" group-title="油管",憨豆先生
+http://192.168.50.1:35455/youtube/80MaYh4ksQk
 
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
 http://192.168.50.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
