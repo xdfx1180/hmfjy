@@ -395,20 +395,6 @@ http://192.168.50.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",哔哩哔哩足球赛事
 http://192.168.50.1:35455/bilibili/22
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",磊哥剪电影还珠格格
-http://192.168.50.1:35455/bilibili/25082603
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",是夏冬青哇情深深
-http://192.168.50.1:35455/bilibili/30010701
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",西瓜放映厅武林外传
-http://192.168.50.1:35455/bilibili/27554961
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",周小树爱屌丝男士
-http://192.168.50.1:35455/bilibili/30882535
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",UP主硬照鬼才国学经典
-http://192.168.50.1:35455/bilibili/21676478
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",走进国学红楼梦解说
-http://192.168.50.1:35455/bilibili/27495123
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",元七侃书深挖西游原著
-http://192.168.50.1:35455/bilibili/24151243
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/抖音.jpg" group-title="抖音",新爱体育
 http://192.168.50.1:35455/douyin/179260431297
