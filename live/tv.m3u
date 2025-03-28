@@ -127,6 +127,8 @@ http://192.168.50.1:35455/huya/11602068
 http://192.168.50.1:35455/huya/20985776
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周星星
 http://192.168.50.1:35455/huya/11342412
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",球哥解说跑男
+http://192.168.50.1:35455/huya/29465875
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",埋堆堆官方庆余年2
 http://192.168.50.1:35455/huya/23740156
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",港剧慢品汇玫瑰的故事
@@ -167,6 +169,8 @@ http://192.168.50.1:35455/huya/11602081
 http://192.168.50.1:35455/huya/11342384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",山东北路水浒
 http://192.168.50.1:35455/huya/26355860
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",大漠李白悟空
+http://192.168.50.1:35455/huya/26355861
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我是翩翩红楼梦
 http://192.168.50.1:35455/huya/30080221
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",领带哥许三多
