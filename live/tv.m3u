@@ -108,11 +108,11 @@ http://192.168.50.1:35455/douyu/74374
 http://192.168.50.1:35455/douyu/4246519
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",胖猴仔
-http://192.168.50.1:35455/huya/24057412
+http://192.168.50.1:35455/huya/24057412?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",若凌美食纪录片
-http://192.168.50.1:35455/huya/11352955
+http://192.168.50.1:35455/huya/11352955?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",摄氏零度品三国
-http://192.168.50.1:35455/huya/11602032
+http://192.168.50.1:35455/huya/11602032?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",陈翔六点半
 http://192.168.50.1:35455/huya/11274154
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",来瓶肥宅水吐槽大会
