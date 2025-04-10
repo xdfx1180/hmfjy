@@ -123,6 +123,10 @@ http://192.168.50.1:35455/huya/11602068?cdn=hscdn
 http://192.168.50.1:35455/huya/20985776?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",球哥解说跑男
 http://192.168.50.1:35455/huya/29465875?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",WWE终结记录剧情
+http://192.168.50.1:35455/huya/27446115?cdn=hscdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",职业摔角手道夫齐格勒
+http://192.168.50.1:35455/huya/24953483?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",周星星
 http://192.168.50.1:35455/huya/11342412?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",瞬间爆炸庆余年
