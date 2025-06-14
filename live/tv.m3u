@@ -136,18 +136,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="地方",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1,tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="地方",BTV-重温经典
-http://192.168.50.1:35455/bptv/10000100000000050000000003887494.m3u8
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.cn/tv/纪实科教.png" group-title="地方",北京纪实科教
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1,tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="地方",萌宠TV
-http://192.168.50.1:35455/bptv/10000100000000050000000003887495.m3u8
-#EXTINF:-1,tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="地方",淘剧场
-http://192.168.50.1:35455/bptv/10000100000000050000000003887497.m3u8
-#EXTINF:-1,tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="地方",淘电影
-http://192.168.50.1:35455/bptv/10000100000000050000000003887498.m3u8
-#EXTINF:-1,tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="地方",淘娱乐
-http://192.168.50.1:35455/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州1套
 https://pull.nicewifi.cn/live/xztv01.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州2套
@@ -156,8 +144,6 @@ https://pull.nicewifi.cn/live/xztv02.flv
 https://pull.nicewifi.cn/live/xztv03.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/徐州广电.png" group-title="地方",徐州4套
 https://pull.nicewifi.cn/live/xztv04.flv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/地方/甘肃广电.png" group-title="地方",甘肃文化影视
-https://hls.gstv.com.cn/skt649/79zvx8.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",八卦象棋大师
 http://192.168.50.1:35455/douyu/851040
@@ -179,14 +165,8 @@ http://192.168.50.1:35455/douyu/9236042
 http://192.168.50.1:35455/douyu/9220456
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",刘少RM
 http://192.168.50.1:35455/douyu/131977
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",傲天皇妃日综
-http://192.168.50.1:35455/douyu/2073
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",世界未解之谜
 http://192.168.50.1:35455/douyu/9369468
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",进击D神乐周星驰
-http://192.168.50.1:35455/douyu/122402
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",进击的神乐华语电影
-http://192.168.50.1:35455/douyu/85894
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",橙記港剧
 http://192.168.50.1:35455/douyu/4549169
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",疯狂尛瀦瀦经典港剧1
@@ -217,26 +197,18 @@ http://192.168.50.1:35455/douyu/12463728
 http://192.168.50.1:35455/douyu/12210085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",白了个痴炊事班
 http://192.168.50.1:35455/douyu/319576
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",JhZj经典神剧
-http://192.168.50.1:35455/douyu/1006179
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",怀旧经典影视汇
-http://192.168.50.1:35455/douyu/12143022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝贝影视
 http://192.168.50.1:35455/douyu/431460
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",久了旧知恐怖电影
 http://192.168.50.1:35455/douyu/310926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当铁手团遇到神剧
 http://192.168.50.1:35455/douyu/5875025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",702放映厅许三多
-http://192.168.50.1:35455/douyu/10348728
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",创世幻神追过的经典
 http://192.168.50.1:35455/douyu/9682185
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",一起看港剧
 http://192.168.50.1:35455/douyu/5061550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",狂拽酷炫贝爷
 http://192.168.50.1:35455/douyu/4332
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",PDD影院经典
-http://192.168.50.1:35455/douyu/1274132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",伊太刀刀蓝光电影
 http://192.168.50.1:35455/douyu/747764
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",万事通熊猫庆余年
