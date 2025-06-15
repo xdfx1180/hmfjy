@@ -177,20 +177,12 @@ http://192.168.50.1:35455/douyu/5522351
 http://192.168.50.1:35455/douyu/5261342
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",怡宝妹妹经典影视
 http://192.168.50.1:35455/douyu/434971
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",深夜D你经典影视
-http://192.168.50.1:35455/douyu/12421816
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",深夜D你侯总
-http://192.168.50.1:35455/douyu/7882691
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",深夜D你熬夜剧场
-http://192.168.50.1:35455/douyu/12434419
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",卖女孩滴小姑凉悍匪
 http://192.168.50.1:35455/douyu/922564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当幽兰剑遇上狄仁杰
 http://192.168.50.1:35455/douyu/6027991
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当燕双鹰遇见李元芳神剧
 http://192.168.50.1:35455/douyu/3439096
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",智仗心鬼吹灯
-http://192.168.50.1:35455/douyu/5635000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",新蓝翔老三国
 http://192.168.50.1:35455/douyu/12463728
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",新蓝翔新三国
@@ -203,12 +195,8 @@ http://192.168.50.1:35455/douyu/431460
 http://192.168.50.1:35455/douyu/310926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当铁手团遇到神剧
 http://192.168.50.1:35455/douyu/5875025
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",创世幻神追过的经典
-http://192.168.50.1:35455/douyu/9682185
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",一起看港剧
 http://192.168.50.1:35455/douyu/5061550
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",狂拽酷炫贝爷
-http://192.168.50.1:35455/douyu/4332
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",伊太刀刀蓝光电影
 http://192.168.50.1:35455/douyu/747764
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",万事通熊猫庆余年
@@ -266,10 +254,10 @@ http://192.168.50.1:35455/huya/29465852?cdn=alicdn
 http://192.168.50.1:35455/huya/11602082?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鸽宝小改改征服
 http://192.168.50.1:35455/huya/11601970?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",Stcop猫猫喜剧电影
-http://192.168.50.1:35455/huya/30488738?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小木子先生纪晓岚
 http://192.168.50.1:35455/huya/11342396?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙放映厅大秦帝国
+http://192.168.50.1:35455/huya/11602077?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",萌新司机大秦
 http://192.168.50.1:35455/huya/11352881?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",粉娘神医
@@ -306,8 +294,6 @@ http://192.168.50.1:35455/huya/11342425?cdn=alicdn
 http://192.168.50.1:35455/huya/21059604?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",新橙記人气港剧
 http://192.168.50.1:35455/huya/30590779?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",第十门鬼吹灯
-http://192.168.50.1:35455/huya/11352883?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",大道遺所思白娘子
 http://192.168.50.1:35455/huya/26355768?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",Wang-我的女人康熙王朝
@@ -322,8 +308,6 @@ http://192.168.50.1:35455/huya/26355853?cdn=hscdn
 http://192.168.50.1:35455/huya/11602055?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",7喜先生林正英
 http://192.168.50.1:35455/huya/11342421?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",江爽鬼片
-http://192.168.50.1:35455/huya/23796393?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",惊悚电影放映厅
 http://192.168.50.1:35455/huya/26355795?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",胖次过肩摔死神来了
@@ -332,12 +316,6 @@ http://192.168.50.1:35455/huya/11352903?cdn=alicdn
 http://192.168.50.1:35455/huya/11601960?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",笙歌经典港剧
 http://192.168.50.1:35455/huya/11352965?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙八点档
-http://192.168.50.1:35455/huya/880261?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",浮生没有若梦贺岁档
-http://192.168.50.1:35455/huya/11601986?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",我的心好疼香港贺岁片
-http://192.168.50.1:35455/huya/11601955?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",四大裁子之首王晶
 http://192.168.50.1:35455/huya/11602058?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙影院沈腾
@@ -358,20 +336,6 @@ http://192.168.50.1:35455/huya/11342387?cdn=alicdn
 http://192.168.50.1:35455/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",蓶1淳爷山鸡哥
 http://192.168.50.1:35455/huya/11336719?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",槽老师女神系列
-http://192.168.50.1:35455/huya/11336571?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",可爱的小强金庸武侠
-http://192.168.50.1:35455/huya/11342435?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",逗比宝宝经典金庸群侠
-http://192.168.50.1:35455/huya/11342427?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小军迷经典女神
-http://192.168.50.1:35455/huya/11352909?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",小牡蛎高智商的罪犯
-http://192.168.50.1:35455/huya/11352962?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",学妹爱学长警匪
-http://192.168.50.1:35455/huya/11352886?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",铁血真汉子国产悬疑
-http://192.168.50.1:35455/huya/11342395?cdn=alicdn
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立新闻
 http://192.168.50.1:35455/youtube/hGJkDZDchYI
