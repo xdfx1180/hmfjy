@@ -280,8 +280,6 @@ http://192.168.50.1:35455/huya/26355861?cdn=hscdn
 http://192.168.50.1:35455/huya/30080221?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",joe-creator情深深雨濛濛
 http://192.168.50.1:35455/huya/29982624?cdn=hscdn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",笙歌还珠格格
-http://192.168.50.1:35455/huya/11352965?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",领带哥许三多
 http://192.168.50.1:35455/huya/11342430?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",二次元控铁梨花
@@ -355,8 +353,6 @@ http://192.168.50.1:35455/youtube/TCnaIE_SAtM
 http://192.168.50.1:35455/youtube/quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",东森新闻
 http://192.168.50.1:35455/youtube/E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/东森新闻.png" group-title="油管",57怪奇物语
-http://192.168.50.1:35455/youtube/0CfImCAFIPo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS NEWS
 http://192.168.50.1:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/TVBS新闻.png" group-title="油管",TVBS新闻
@@ -372,15 +368,13 @@ http://192.168.50.1:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="油管",中天新闻
 http://192.168.50.1:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="油管",新唐人亚太台
-http://192.168.50.1:35455/youtube/WIhgU_mc05A
+http://192.168.50.1:35455/youtube/hR8_rrE0VyY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/8视界.jpg" group-title="油管",8视界
 http://192.168.50.1:35455/youtube/RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",华藏卫视
-http://192.168.50.1:35455/youtube/ypmrwYeLAaQ
+http://192.168.50.1:35455/youtube/3Fz1njXrIKM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",淨空法師
 http://192.168.50.1:35455/youtube/JCIVsura-0A
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/油管.jpg" group-title="油管",憨豆先生
-http://192.168.50.1:35455/youtube/80MaYh4ksQk
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/哔哩哔哩.jpg" group-title="哔哩哔哩",哔哩哔哩足球赛事
 http://192.168.50.1:35455/bilibili/22
