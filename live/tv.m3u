@@ -337,6 +337,35 @@ http://192.168.50.1:35455/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",蓶1淳爷山鸡哥
 http://192.168.50.1:35455/huya/11336719?cdn=alicdn
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",璐宝武林外传
+http://192.168.50.1:35455/yy/1355652820
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",丸子正阳门下
+http://192.168.50.1:35455/yy/1354931580
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",小玲儿天龙八部
+http://192.168.50.1:35455/yy/1351814644
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",徐凤年雪中悍刀行
+http://192.168.50.1:35455/yy/1462996362
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",美杜莎狂飙
+http://192.168.50.1:35455/yy/1355142167
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",蓉儿83射雕英雄传
+http://192.168.50.1:35455/yy/1354210357
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",玲玲柒宰相刘罗锅
+http://192.168.50.1:35455/yy/1353892468
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",一口软糖天道
+http://192.168.50.1:35455/yy/1382735574
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",暖暖寻秦记
+http://192.168.50.1:35455/yy/1382851591
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",茹初欢乐颂
+http://192.168.50.1:35455/yy/1382735624
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",笑笑欢乐集结号
+http://192.168.50.1:35455/yy/1354931582
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",小阳憨豆先生
+http://192.168.50.1:35455/yy/1354936239
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",浅笑百家讲坛-红楼梦
+http://192.168.50.1:35455/yy/1382741639
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",我是幸运儿笑傲江湖
+http://192.168.50.1:35455/yy/1354936128
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立新闻
 http://192.168.50.1:35455/youtube/hGJkDZDchYI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="油管",三立iNEWS
