@@ -372,6 +372,8 @@ http://192.168.50.1:35455/youtube/pF507BLtbqU
 http://192.168.50.1:35455/youtube/MV9mI0GChwo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="油管",民视新闻
 http://192.168.50.1:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华视新闻.jpg" group-title="油管",华视新闻
+http://192.168.50.1:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/台视新闻.png" group-title="油管",台视新闻
 http://192.168.50.1:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中视新闻.png" group-title="油管",中视新闻
