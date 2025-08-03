@@ -180,9 +180,9 @@ http://192.168.50.1:35455/douyu/6027991
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当燕双鹰遇见李元芳神剧
 http://192.168.50.1:35455/douyu/3439096
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",新蓝翔老三国
-http://192.168.50.1:35455/douyu/12463728
+http://192.168.50.1:35455/douyu/7459925
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",新蓝翔新三国
-http://192.168.50.1:35455/douyu/12210085
+http://192.168.50.1:35455/douyu/5908256
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",白了个痴炊事班
 http://192.168.50.1:35455/douyu/319576
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝贝影视
@@ -244,6 +244,12 @@ http://192.168.50.1:35455/huya/23865142?cdn=alicdn
 http://192.168.50.1:35455/huya/23749083?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",港片魅力创世纪
 http://192.168.50.1:35455/huya/29465852?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",孤鹰燕影天龙八部
+http://192.168.50.1:35455/huya/30204448?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",欲姐陪你看寻秦记
+http://192.168.50.1:35455/huya/30380813?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",缇兰传奇情深深雨濛濛
+http://192.168.50.1:35455/huya/30080178?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",漓江塔金庸经典剧
 http://192.168.50.1:35455/huya/11602082?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",鸽宝小改改征服
@@ -316,6 +322,8 @@ http://192.168.50.1:35455/huya/11601960?cdn=alicdn
 http://192.168.50.1:35455/huya/11352965?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",四大裁子之首王晶
 http://192.168.50.1:35455/huya/11602058?cdn=alicdn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",地瓜剧迷金庸武侠电影
+http://192.168.50.1:35455/huya/30472325?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",虎牙影院沈腾
 http://192.168.50.1:35455/huya/11601968?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/虎牙.png" group-title="虎牙",科技这样玩许氏三杰
