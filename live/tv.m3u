@@ -374,8 +374,6 @@ http://192.168.50.1:35455/yy/1354936128
 http://192.168.50.1:35455/youtube/hGJkDZDchYI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立iNEWS.png" group-title="油管",三立iNEWS
 http://192.168.50.1:35455/youtube/pF507BLtbqU
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/三立新闻.png" group-title="油管",三立LIVE
-http://192.168.50.1:35455/youtube/MV9mI0GChwo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/民视新闻.png" group-title="油管",民视新闻
 http://192.168.50.1:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华视新闻.jpg" group-title="油管",华视新闻
@@ -403,7 +401,7 @@ http://192.168.50.1:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/中天新闻.png" group-title="油管",中天新闻
 http://192.168.50.1:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/新唐人亚太台.png" group-title="油管",新唐人亚太台
-http://192.168.50.1:35455/youtube/hR8_rrE0VyY
+http://192.168.50.1:35455/youtube/Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/8视界.jpg" group-title="油管",8视界
 http://192.168.50.1:35455/youtube/RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/港台/华藏卫视.png" group-title="油管",华藏卫视
