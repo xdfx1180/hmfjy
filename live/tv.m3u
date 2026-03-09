@@ -169,8 +169,6 @@ http://192.168.50.1:35455/douyu/131977
 http://192.168.50.1:35455/douyu/9369468
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",橙記港剧
 http://192.168.50.1:35455/douyu/4549169
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",追梦凌宝剧集
-http://192.168.50.1:35455/douyu/1377142
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",怡宝妹妹经典影视
 http://192.168.50.1:35455/douyu/434971
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",卖女孩滴小姑凉悍匪
@@ -187,8 +185,6 @@ http://192.168.50.1:35455/douyu/5908256
 http://192.168.50.1:35455/douyu/319576
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",贝贝影视
 http://192.168.50.1:35455/douyu/431460
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",久了旧知恐怖电影
-http://192.168.50.1:35455/douyu/310926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",当铁手团遇到神剧
 http://192.168.50.1:35455/douyu/5875025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/斗鱼.png" group-title="斗鱼",一起看港剧
@@ -349,8 +345,8 @@ http://live.ottiptv.cc/yy/1354931580
 http://live.ottiptv.cc/yy/1351814644
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",徐凤年雪中悍刀行
 http://live.ottiptv.cc/yy/1462996362
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",美杜莎狂飙
-http://live.ottiptv.cc/yy/1355142167
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",夏天儿狂飙
+http://live.ottiptv.cc/yy/1354806550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",蓉儿83射雕英雄传
 http://live.ottiptv.cc/yy/1354210357
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",玲玲柒宰相刘罗锅
@@ -361,6 +357,10 @@ http://live.ottiptv.cc/yy/1382735574
 http://live.ottiptv.cc/yy/1382851591
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",茹初欢乐颂
 http://live.ottiptv.cc/yy/1382735624
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",如懿唐朝诡实录
+https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",YY用户地下交通站
+https://live.ottiptv.cc/yy/1382736795
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",笑笑欢乐集结号
 http://live.ottiptv.cc/yy/1354931582
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xdfx1180/hmfjy/play/live/logo/其他/YY.jpg" group-title="YY",小阳憨豆先生
